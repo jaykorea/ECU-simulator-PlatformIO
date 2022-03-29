@@ -1,0 +1,995 @@
+[37me[37mI[37mnitial[37mizing I2C d[37mevices...
+[37mT[37me[37msting device[37m connections[37m...
+MPU6050 connection [37msuccessful[37m
+Initializi[37mng DMP...
+[37m
+[37mRe[37mading sensor[37ms for first time...
+[37m.[37m..[37m
+3Seconds
+[37m
+Calculating[37m offsets...[37m
+[37m
+[37mFIN[37mISHED!
+
+Se[37mnsor reading[37ms with offs[37mets:	
+[37mg[37myroX_[37moffset = -13[37m8.00
+gyroY_o[37mffset = -109.00
+gyro[37mZ_offset = -[37m4.00
+accel[37mX_offset = -[37m4004.00
+ac[37mcelY_offset [37m= 829.00
+a[37mccelZ_offset[37m = 1162.00
+[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m[37m
+
+// [37m          X [37mAccel  Y Ac[37mcel  Z Accel[37m   X Gyro  [37m Y Gyro   Z [37mGyro
+//OFFS[37mETS    -4016[37m,     859, [37m   1168,    [37m-137,    -1[37m09,      -4
+[37mEnabling DM[37mP...
+Enabling interrup[37mt detection [37m(Arduino ex[37mternal inter[37mrupt 13)...
+[37mDMP ready! [37mWaiting for[37m first inter[37mrupt...
+[37mE[37mLM327 Conne[37mc[37mted
+[37mI[37mniti[37malizing SD [37mcard...[37mc[37mard [37minitialized[37m.
+[37mL[37mogging[37m to: LOG015[37m66.CSV
+[37mF[37mree space [37mKB: 29617088[37m
+Free space [37min MB: 289[37m22
+[37m[37m
+[37m[MAIN] Waiting for C[37mat.M1 Modu[37mle Ready...[37m
+[37m[37m
+[MA[37mIN] BG96 al[37mready availab[37mle
+[37m[37m
+[37m[MAIN] Syste[37mm Init Complete
+
+[BG[37m96] Echo Off[37m: Success
+[37m
+[BG96] [37mUSIM Status:[37m READY
+[37m
+[BG9[37m6] Network [37mStatus: 0, 2[37m
+[BG96] Pl[37mease Check your H/W Stat[37mus
+[37m[37m
+[37m[BG96] Echo [37mOff: Succes[37ms
+[37m
+[BG96] [37mUSIM Status: READY
+[37m[37m
+[BG96][37m Network Sta[37mtus: 0, 2
+[[37mBG96] Please[37m Check your H/W Status[37m
+[37m[37m
+[37m[BG96] Echo O[37mff: Succes[37ms
+[37m
+[BG96] U[37mSIM Status: [37mREADY
+[37m
+[BG96] [37mNetwork Status: 0, 3
+[[37mBG96] Pleas[37me Check your[37m H/W Status[37m
+[37m[37m
+[BG96] [37mEcho Off: [37mSuccess
+[37m
+[BG9[37m6] USIM Stat[37mus: READY
+[37m
+[BG96] Networ[37mk Status: 0,[37m 3
+[BG96] [37mPlease Check[37m your H/W St[37matus
+[37m[37m
+[BG96][37m Echo Off: S[37muccess
+[37m
+[BG9[37m6] USIM Stat[37mus: READY
+[37m
+[B[37mG96] Networ[37mk Status: 0, 3
+[BG96] P[37mlease Check[37m your H/W St[37matus
+[37m[37m
+[BG96[37m] Echo Off: S[37muccess
+[37m
+[BG[37m96] USIM Stat[37mus: READY
+[37m
+[B[37mG96] Network[37m Status: 0,[37m 3
+[BG96][37m Checking AP[37mN...
+[37m[37m
+[37m[BG96] APN[37m Check Done[37m
+
+[MAIN] [F[37mILE] Save a[37mnd check AW[37mS certificates
+[37m[37m
+[37m[MAIN] [FILE][37m Erase BG96 storage co[37mmplete
+[37m[37m
+[[37mBG96] File sa[37mved: Amazo[37mnRootCA1.pem[37m, 1188, 2d1[37m3
+[37m[37m
+[B[37mG96] File sa[37mved: certif[37micate.pem.cr[37mt, 1224, 7a[37m0f
+[37m[37m
+[37m[BG96] Fi[37mle saved: p[37mrivate.pem.ke[37my, 1679, 7a[37m50
+[37m[37m
+[37m[MAIN] [SSL/[37mTLS] Set BG96[37m SSL/TLS configuration[37m
+[37m[37m
+[[37mMAIN] [MQTT[37m] Connect to[37m AWS IoT "a3q2g5zrbgdsc1[37m-ats.iot.us[37m-east-1.ama[37mz[37monaws.com:8[37m883"
+
+[BG96] GPS Powe[37mr: On
+
+[M[37mAIN] GPS On[37m
+-0.02
+-0.01[37m
+0.00
+0.00
+GYRO da[37mta updated
+Distinguishin[37mg Powertra[37min
+[37mL[37mo[37mgging to:[37m LOG01567.CSV<<--------[37m------------[37m-------Crea[37mted New File[37m...
+[37mE[37mRROR: EL[37mM_TIMEOUT
+E[37mLM_ERROR LOG[37mGED
+[37m[37m
+[B[37mG96] AT+QMTO[37mPEN result[[37m3]: Failed t[37mo activate P[37mDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN res[37mult[3]: Fai[37mled to activ[37mate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN res[37mult[3]: Fail[37med to activa[37mte PDP[37m[37m
+[37m[BG96] AT+QMTOPEN res[37mult[3]: Faile[37md to activ[37mate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN res[37mult[3]: Fail[37med to activ[37mate PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN result[3]: Fail[37med to activ[37mate PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN result[3]: Fail[37med to activ[37mate PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN resul[37mt[3]: Failed to activa[37mte PDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN resul[37mt[3]: Fail[37med to activa[37mte PDP[37m[37m
+[37m[BG96] AT+QMTOPEN resul[37mt[3]: Fail[37med to activa[37mte PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN resu[37mlt[3]: Faile[37md to activat[37me PDP[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN result[3]: Faile[37md to activat[37me PDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN result[3]: Faile[37md to activa[37mte PDP[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN result[3]: Faile[37md to activat[37me PDP[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN resu[37mlt[3]: Faile[37md to activat[37me PDP[37m[37m
+[37m[BG96] AT+QMT[37mOPEN resul[37mt[3]: Failed[37m to activat[37me PDP
+[MAI[37mN] [MQTT] Socket open f[37mailed
+[37m-[37m0.[37m01
+-0.01
+[37m-0.00
+0.00[37m
+GYRO data [37mupdated
+[37mL[37mogg[37ming to: LOG01[37m568.CSV<<--[37m------------[37m----------[37m---Created Ne[37mw File...
+[37mE[37mL[37mM327 data[37m representing[37m.....
+[37mE[37mL[37mM327 Data Logging...[37m
+[37mp[37mre_comm[37ma[37mndedThrott[37mleActuator :[37m 27.84
+pre[37m_f_accelX = -0.00
+pre_f_[37maccelY = 0.[37m00
+pre_rpm[37m = 1780
+pr[37me_runTime = 125
+pre_kp[37mh = 0
+pre_Da[37mta Updated[37m
+[37m[37m
+[37m[BG96] AT[37m+QMTOPEN re[37msult[3]: Fai[37mled to activate PDP[37m[37m
+[37m[BG96] [37mAT+QMTOPEN [37mresult[3]: F[37mailed to ac[37mtivate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN [37mresult[3]: F[37mailed to ac[37mtivate PDP[37m[37m
+[37m[BG96] [37mAT+QMTOPEN [37mresult[3]: F[37mailed to act[37mivate PDP[37m[37m
+[37m[BG96] [37mAT+QMTOPEN r[37mesult[3]: F[37mailed to act[37mivate PDP[37m[37m
+[37m[BG96] [37mAT+QMTOPEN result[3]: Fa[37miled to act[37mivate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN r[37mesult[3]: Fa[37miled to act[37mivate PDP[37m[37m
+[37m[BG96] A[37mT+QMTOPEN result[3]: Fa[37miled to act[37mivate PDP[37m[37m
+[37m[BG96] AT[37m+QMTOPEN re[37msult[3]: Failed to activ[37mate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN r[37me[37msult[3]: Fa[37miled to acti[37mvate PDP[37m[37m
+[37m[BG96] AT[37m+QMTOPEN r[37mesult[3]: Fail[37med to acti[37mvate PDP[37m[37m
+[37m[BG96] A[37mT+QMTOPEN result[3]: Fail[37med to acti[37mvate PDP[37m[37m
+[37m[BG96] A[37mT+QMTOPEN re[37msult[3]: Failed to acti[37mvate PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN res[37mult[3]: Fai[37mled to acti[37mvate PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN res[37mult[3]: Fai[37mled to activ[37mate PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN result[3]: Fai[37mled to activa[37mte PDP
+[M[37mAIN] [MQTT][37m Socket open[37m failed
+-0[37m.01
+0.00
+0[37m.00
+0.01
+[37mGYRO data up[37mdated
+[37mE[37mLM[37m327 data rep[37mresenting..[37m...
+[37mE[37mL[37mM327 Data [37mLogging...
+[37me[37mf[37mficiencyM[37mark : 5.00 [37m/ 10 
+aver[37magecommandedT[37mhrottleActu[37mator : 52.[37m94
+safetyMa[37mrk : 10.00 /[37m 10 
+Counter[37m_Time : 0[37m
+safetyScor[37meBuf : good[37m
+drivingMar[37mk : 7.50 / 1[37m0 
+averaged[37mrivingMark : 7.50 / 10 [37m
+pre_comman[37mdedThrottl[37meActuator : [37m52.94
+pre_[37mf_accelX = 0[37m.00
+pre_f_[37maccelY = 0.0[37m1
+pre_rpm = [37m1071
+pre_runTime = 1[37m91
+pre_kph [37m= 0
+pre_Dat[37ma Updated
+[37m-[37m0[37m.01
+-0.01[37m
+-0.01
+0.01
+GYRO data[37m updated
+[37mE[37mL[37mM327 data [37mrepresenting..[37m...
+[37mE[37mL[37mM327 Data [37mLogging...
+[37me[37mf[37mficiencyMa[37mrk : 5.00 /[37m 10 
+averag[37mecommandedT[37mhrottleActu[37mator : 46.47[37m
+safetyMar[37mk : 10.00 / 10 
+Counte[37mr_Time : 0
+s[37mafetyScore[37mBuf : good
+[37mdrivingMark[37m : 7.50 / 10 [37m
+averagedr[37mivingMark :[37m 7.50 / 10 [37m
+pre_comman[37mdedThrottle[37mActuator : 4[37m0.00
+pre_f_a[37mccelX = -0.01
+pre_f_a[37mccelY = 0.0[37m1
+pre_rpm =[37m 901
+pre_r[37munTime = 195[37m
+pre_kph = 0[37m
+pre_Data Updated
+[37m-[37m0[37m.01
+-0[37m.01
+-0.01[37m
+0.01
+GYRO data update[37md
+[37mE[37mL[37mM327 data representing[37m.....
+[37mE[37mL[37mM327 Data [37mLogging...[37m
+[37me[37mf[37mficiencyMa[37mrk : 5.00 /[37m 10 
+averag[37mecommandedThrottleActuat[37mor : 49.93
+[37msafetyMark[37m : 10.00 / [37m10 
+Counter[37m_Time : 0
+[37msafetyScoreBuf : good
+[37mdrivingMark [37m: 7.50 / 10[37m 
+averagedriv[37mingMark : [37m7.50 / 10 
+[37mpre_comman[37mdedThrottleA[37mctuator : 5[37m6.86
+pre_f_[37maccelX = -0.0[37m1
+pre_f_a[37mccelY = 0.01
+pre_rpm =[37m 2038
+pre_r[37munTime = 19[37m9
+pre_kph = [37m0
+pre_Data Updated
+[37m-[37m0.[37m01
+0.00
+-0[37m.00
+-0.00[37m
+GYRO data u[37mpdated
+[37mE[37mLM327 d[37mata represen[37mt[37ming.....[37m
+[37mE[37mLM327 [37mData Loggin[37mg...
+[37mc[37mo[37munter_Rpm [37m: 1
+efficien[37mcyMark : 4.8[37m5 / 10 
+a[37mveragecomma[37mndedThrottleActuator : [37m53.43
+safet[37myMark : 10.[37m00 / 10 
+Co[37munter_Time [37m: 0
+safetyS[37mcoreBuf : g[37mood
+drivingMark : 7.43 [37m/ 10 
+aver[37magedrivingMa[37mrk : 7.48 /[37m 10 
+pre_co[37mmmandedThro[37mttleActuator[37m : 63.92
+pre_f_accelX [37m= -0.00
+pre[37m_f_accelY = -0.00
+pre[37m_rpm = 2871[37m
+pre_runTim[37me = 203
+pre[37m_kph = 0
+p[37mre_Data Upda[37mted
+[37m[37m
+[37m[BG96] AT+QMTOPEN re[37msult[3]: Fa[37miled to act[37mivate PDP[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN resul[37mt[3]: Faile[37md to activate[37m PDP[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN resul[37mt[3]: Faile[37md to activat[37me PDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN resul[37mt[3]: Failed[37m to activat[37me PDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN resul[37mt[3]: Failed to activat[37me PDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN result[37m[3]: Failed[37m to activat[37me PDP[37m[37m
+[37m[BG96] AT+QMT[37mOPEN result[3]: Failed[37m to activate [37mPDP[37m[37m
+[37m[BG96] AT+QMTOPEN result[37m[3]: Failed[37m to activate [37mPDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN result[37m[3]: Failed[37m to activate[37m PDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN result[3]: Failed [37mto activate [37mPDP[37m[37m
+[[37mBG96] AT+QM[37mTOPEN result[37m[3]: Failed t[37mo activate[37m PDP[37m[37m
+[[37mBG96] AT+QMT[37mOPEN result[37m[3]: Failed[37m to activate[37m PDP[37m[37m
+[[37mBG96] AT+QMT[37mOPEN result[[37m3]: Failed to activate[37m PDP[37m[37m
+[[37mBG96] AT+QMT[37mOPEN result[37m[3]: Failed t[37mo activate P[37mDP[37m[37m
+[[37mBG96] AT+QMT[37mOPEN result[37m[3]: Failed [37mto activate[37m PDP[37m[37m
+[B[37mG96] AT+QMTOPEN result[[37m3]: Failed to[37m activate [37mPDP
+[MAIN][37m [MQTT] Sock[37met open fail[37med
+[37m-[37m0.02
+-0.0[37m1
+-0.01
+0.[37m00
+GYRO dat[37ma updated
+[37mE[37mLM327 da[37mta represent[37ming.....
+[37mE[37mLM327 Da[37mta Logging[37m...
+[37me[37mff[37miciencyMark [37m: 4.86 / 10[37m 
+averageco[37mmmandedThrottleActuator[37m [37m: 47.92
+sa[37mfetyMark : 10.00 / 10 [37m
+Counter_Ti[37mme : 0
+saf[37metyScoreBuf [37m: good
+drivingMark : 7[37m.43 / 10 
+av[37meragedrivi[37mngMark : 7.4[37m7 / 10 
+pr[37me_commandedT[37mhrottleActu[37mator : 25.88[37m
+pre_f_acc[37melX = -0.01[37m
+pre_f_accelY[37m = 0.00
+pre_rpm = 753[37m
+pre_runTime[37m = 222
+pr[37me_kph = 0
+[37mpre_Data Updated
+[37m-[37m0.02[37m
+-0.03
+0.01[37m
+0.02
+GYR[37mO data updated
+[37mE[37mLM327 d[37mata represen[37mting.....
+[37mE[37mLM327 D[37mata Logging.[37m..
+[37me[37mffi[37mciencyMark [37m: 4.87 / 10 
+averagecom[37mmandedThrot[37mtleActuator [37m: 47.25
+sa[37mfetyMark : 1[37m0.00 / 10 [37m
+Counter_Tim[37me : 0
+safet[37myScoreBuf : good
+driv[37mingMark : 7.4[37m3 / 10 
+ave[37mragedrivin[37mgMark : 7.4[37m7 / 10 
+pre[37m_commandedT[37mhrottleActua[37mtor : 43.92[37m
+pre_f_acce[37mlX = 0.01
+[37mpre_f_accelY = 0.02
+pr[37me_rpm = 2051[37m
+pre_runTi[37mme = 226
+pr[37me_kph = 0
+pre_Data Upd[37mated
+[37m0[37m.[37m01
+-0.03
+0.01
+0.00[37m
+GYRO data [37mupdated
+[37mE[37mLM3[37m27 data repre[37msenting....[37m.[37m
+[37mE[37mLM32[37m7 Data Logg[37ming...
+[37me[37mffic[37miencyMark :[37m 4.87 / 10 [37m
+averagecom[37mmandedThrott[37mleActuator [37m: 44.59
+sa[37mfetyMark : 1[37m0.00 / 10 
+[37mCounter_Tim[37me : 0
+safet[37myScoreBuf : good
+drivi[37mngMark : 7.43[37m / 10 
+av[37meragedrivin[37mgMark : 7.46[37m / 10 
+pre_commandedThr[37mottleActua[37mtor : 28.63[37m
+pre_f_acce[37mlX = 0.01
+p[37mre_f_accelY[37m = 0.00
+pre[37m_rpm = 2024
+pre_runTim[37me = 230
+pre[37m_kph = 0
+p[37mre_Data Upd[37mated
+[37m-0.00
+-[37m0.01
+0.01
+[37m-0.00
+GYRO [37mdata update[37md
+[37mE[37mLM32[37m7 data repre[37msenting.....[37m
+[37mE[37mLM327[37m Data Logg[37ming...
+[37mc[37mount[37mer_Rpm : 2
+[37mefficiencyM[37mark : 4.74 /[37m 10 
+averag[37mecommandedThrottleActua[37mtor : 47.35[37m
+safetyMark[37m : 10.00 / [37m10 
+Counte[37mr_Time : 0
+[37msafetyScore[37mBuf : good
+[37mdrivingMark [37m: 7.37 / 10[37m 
+averaged[37mrivingMark :[37m 7.45 / 10 [37m
+pre_comman[37mdedThrottle[37mActuator : 6[37m6.67
+pre_f[37m_accelX = 0.[37m01
+pre_f_ac[37mcelY = -0.00
+pre_rpm =[37m 2284
+pre_[37mrunTime = 23[37m4
+pre_kph [37m= 0
+pre_Dat[37ma Updated
+[37m[37m
+[37m[BG96] AT+QM[37mTOPEN result[37m[3]: Failed[37m to activate[37m PDP[37m[37m
+[BG96][37m AT+QMTOPE[37mN result[3][37m:[37m Failed to[37m activate PD[37mP[37m[37m
+[BG9[37m6] AT+QMTOPE[37mN result[3][37m: Failed to a[37mctivate PDP[37m[37m
+[BG96[37m] AT+QMTOPE[37mN result[3][37m: Failed to [37mactivate PDP[37m[37m
+[BG96][37m AT+QMTOPE[37mN result[3][37m: Failed to [37mactivate PDP[37m[37m
+[BG96[37m] AT+QMTOPE[37mN result[3]:[37m Failed to [37mactivate PD[37mP[37m[37m
+[BG9[37m6] AT+QMTOPEN result[3]:[37m Failed to [37mactivate PDP[37m[37m
+[BG96[37m] AT+QMTOPEN [37mresult[3]:[37m Failed to [37mactivate PDP[37m[37m
+[BG96[37m] AT+QMTOPE[37mN result[3]:[37m Failed to a[37mctivate PDP[37m[37m
+[BG96[37m] AT+QMTOPEN[37m result[3]:[37m Failed to a[37mctivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN[37m result[3]:[37m Failed to ac[37mtivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN[37m result[3]: [37mFailed to a[37mctivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN[37m result[3]: [37mFailed to a[37mctivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN [37mresult[3]: F[37mailed to a[37mctivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN [37mresult[3]: [37mF[37mailed to a[37mctivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN[37m [37mresult[3]: [37mFailed to act[37mivate PDP
+[[37mMAIN] [MQT[37mT] Socket ope[37mn failed
+-0.01
+-0.02
+0.00
+-0[37m.01
+GYRO da[37mta updated[37m
+[37mE[37mLM32[37m7 data repre[37msenting.....
+[37mE[37mLM[37m327 Data Log[37mging...
+[37m[37m공회[37m전 counter_T[37mhrottle+ : 1[37m
+efficienc[37myMark : 4.76[37m / 10 
+aver[37magecommandedThrottleAct[37muator : 46.7[37m5
+safetyMa[37mrk : 10.00 [37m/ 10 
+Count[37mer_Time : 0
+safetyScor[37meBuf : good[37m
+drivingMar[37mk : 7.38 / [37m10 
+averagedrivingMark[37m : 7.44 / 10[37m 
+pre_comman[37mdedThrottl[37meActuator :[37m 41.96
+pre_[37mf_accelX = [37m0.00
+pre_f_[37maccelY = -0.01
+pre_rpm[37m = 2543
+pr[37me_runTime = [37m254
+pre_kph = 0
+pre_D[37mata Updated[37m
+0.01
+-0.0[37m3
+0.00
+0.[37m00
+GYRO dat[37ma updated
+[37mE[37mL[37mM327 data [37mrepresenting[37m.....
+[37mE[37mL[37mM327 Dat[37ma Logging...
+[37me[37mfficienc[37myMark : 4.7[37m7 / 10 
+av[37meragecommand[37medThrottleAc[37mtuator : 47.[37m76
+safetyMa[37mrk : 10.00[37m / 10 
+Cou[37mnter_Time : [37m0
+safetySc[37moreBuf : good
+drivingM[37mark : 7.38 /[37m 10 
+averag[37medrivingMark : 7.44 / 1[37m0 
+pre_com[37mmandedThrott[37mleActuator [37m: 56.86
+pre[37m_f_accelX =[37m 0.00
+pre_f_[37maccelY = 0.[37m00
+pre_rpm [37m= 1051
+pre[37m_runTime = 258
+pre_kph[37m = 0
+pre_D[37mata Updated
+[37m0[37m.[37m01
+-0.03
+-[37m0.01
+0.00
+GYRO data up[37mdated
+[37mE[37mL[37mM327 dat[37ma represent[37ming.....
+[37mE[37mLM327 [37mData Loggin[37mg...
+[37mc[37mo[37munter_R[37mpm : 3
+efficiencyMark [37m: 4.66 / 10 [37m
+averageco[37mmmandedThrot[37mtleActuator [37m: 46.67
+s[37mafetyMark : [37m10.00 / 10 [37m
+Counter_Ti[37mme : 0
+saf[37metyScoreBuf : good
+driv[37mingMark : 7.33 / 10 
+av[37meragedrivi[37mngMark : 7.[37m43 / 10 
+pr[37me_commanded[37mThrottleActu[37mator : 35.69[37m
+pre_f_acc[37melX = -0.01[37m
+pre_f_acce[37mlY = 0.00
+p[37mre_rpm = 241[37m8
+pre_runTime = 261
+pre_kph = 0[37m
+pre_Data U[37mpdated
+[37m-0.02
+-0.[37m02
+-0.00
+0.01
+GYRO da[37mta updated[37m
+[37mE[37mLM327 d[37mata represe[37mnting.....
+[37mE[37mLM327 D[37mata Loggin[37mg...
+[37me[37mfficiency[37mMark : 4.66 [37m/ 10 
+ave[37mragecommande[37mdThrottleAc[37mtuator : 47.[37m94
+safetyMar[37mk : 10.00 [37m/ 10 
+Coun[37mter_Time : 0[37m
+safetyScor[37meBuf : good
+drivingMar[37mk : 7.33 / [37m10 
+averagedrivingMark[37m : 7.42 / 10[37m 
+pre_commandedThrottl[37meActuator :[37m 61.96
+pre_[37mf_accelX = [37m-0.00
+pre_f[37m_accelY = 0[37m.01
+pre_rpm[37m = 2982
+pr[37me_runTime = 265
+pre_kph [37m= 0
+pre_D[37mata Updated[37m
+[37m[37m
+[37m[BG96] AT+QM[37mTOPEN result[3]: Failed[37m to activat[37me PDP[37m[37m
+[BG96] A[37mT+QMTOPEN re[37msult[3]: Fail[37med to acti[37mvate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN re[37msult[3]: Fa[37miled to acti[37mvate PDP[37m[37m
+[37m[BG96] A[37mT+QMTOPEN result[3]: Fa[37miled to acti[37mv[37mate PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN res[37mult[3]: Fai[37mled to activ[37mate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN re[37msult[3]: Fai[37mled to activ[37mate PDP[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN re[37msult[3]: Failed to acti[37mv[37mate PDP[37m[37m
+[37m[BG96] AT[37m+QMTOPEN res[37mult[3]: Fail[37med to activa[37mte PDP[37m[37m
+[37m[BG96] AT+QMTOPEN res[37mult[3]: Fai[37mled to activ[37mate PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN result[3]: Fai[37mled to activ[37mate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN res[37mult[3]: Faile[37md to activa[37mte PDP[37m[37m
+[37m[BG96] AT+QMTOPEN res[37mult[3]: Faile[37md to activ[37mate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN res[37mult[3]: Fail[37med to activ[37mate PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN result[3]: Fail[37med to activat[37me PDP[37m[37m
+[37m[BG96] AT+QMTOPEN resu[37mlt[3]: Faile[37md to activ[37mate PDP[37m[37m
+[BG96] AT+[37mQMTOPEN res[37mult[3]: Fail[37med to activa[37mte PDP
+[MA[37mIN] [MQTT] S[37mocket open [37mfailed
+[37m-[37m0[37m.02
+-0.01[37m
+0.00
+0.00
+[37mGYRO data updated
+[37mE[37mLM3[37m27 data rep[37mresenting.....
+[37mE[37mL[37mM327 Data L[37mogging...
+[37me[37mf[37mficiencyMar[37mk : 4.68 / 10 
+averag[37mecommandedT[37mhrottleActua[37mtor : 47.93[37m
+safetyMark[37m : 10.00 / 1[37m0 
+Counter_Time : 0
+s[37mafetyScoreB[37muf : good
+d[37mrivingMark [37m: 7.34 / 10 [37m
+averagedrivingMark : [37m7.41 / 10 [37m
+pre_command[37medThrottleA[37mctuator : 47.[37m84
+pre_f_[37maccelX = 0.00
+pre_f_acc[37melY = 0.00[37m
+pre_rpm = [37m793
+pre_run[37mTime = 285
+pre_kph = 0[37m
+pre_Data [37mUpdated
+0.0[37m1
+-0.01
+0[37m.00
+0.00
+G[37mYRO data upd[37mated
+[37mE[37mLM327 [37mdata represe[37mnting.....[37m
+[37mE[37mLM327 D[37mata Loggin[37mg...
+[37me[37mfficiencyMar[37mk : 4.69 / [37m10 
+average[37mcommandedThrottleActuato[37mr : 46.22
+s[37mafetyMark [37m: 10.00 / 1[37m0 
+Counter_[37mTime : 0
+s[37mafetyScoreBu[37mf : good
+d[37mrivingMark : 7.34 / 10 [37m
+averagedrivi[37mngMark : [37m7.41 / 10 
+[37mpre_commande[37mdThrottleAc[37mtuator : 23.[37m92
+pre_f_ac[37mcelX = 0.00
+pre_f_acc[37melY = 0.00[37m
+pre_rpm = 1[37m803
+pre_run[37mTime = 289[37m
+pre_kph = 0[37m
+pre_Data [37mUpdated
+[37m-0.04[37m
+0.00
+-0.0[37m0
+0.01
+GYRO data upda[37mted
+[37mE[37mLM327 [37mdata repre[37msenting.....[37m
+[37mE[37mLM3[37m27 Data Log[37mging...
+[37mc[37mo[37munter_Rpm :[37m 4
+efficien[37mcyMark : 4.59[37m / 10 
+averagecomman[37mdedThrottleA[37mctuator : 46[37m.[37m25
+safety[37mMark : 10.0[37m0 / 10 
+Cou[37mnter_Time :[37m 0
+safetySc[37moreBuf : go[37mod
+drivingM[37mark : 7.30 / 10 
+avera[37mgedrivingMar[37mk : 7.40 / [37m1[37m0 
+pre_com[37mmandedThrott[37mleActuator :[37m 46.67
+pr[37me_f_accelX [37m= -0.00
+pre[37m_f_accelY = 0.01
+pre_r[37mpm = 2428
+p[37mre_runTime [37m= 293
+pre_k[37mph = 0
+pre[37m_Data Update[37md
+[37m[37m
+[BG[37m96] AT+QMTO[37mPEN result[3[37m]: Failed t[37mo activate P[37mDP[37m[37m
+[37m[BG96] AT+QMT[37mOPEN result[37m[3]: Failed[37m to activate PDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN resul[37mt[3]: Failed[37m to activate[37m PDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN result[37m[3]: Failed[37m to activate[37m PDP[37m[37m
+[[37mBG96] AT+QM[37mTOPEN result[3]: Failed[37m to activate[37m PDP[37m[37m
+[[37mBG96] AT+QMTO[37mPEN result[37m[3]: Failed [37mto activate[37m PDP[37m[37m
+[[37mBG96] AT+QMT[37mOPEN result[[37m3]: Failed [37mto activate P[37mDP[37m[37m
+[[37mBG96] AT+QMTO[37mPEN result[[37m3]: Failed [37mto activate P[37mDP[37m[37m
+[[37mBG96] AT+QMT[37mOPEN result[[37m3]: Failed [37mto activate[37m PDP[37m[37m
+[[37mBG96] AT+QMT[37mOPEN result[37m[3]: Failed [37mto activate [37mPDP[37m[37m
+[B[37mG96] AT+QMTO[37mPEN result[[37m3]: Failed to activate P[37mDP[37m[37m
+[B[37mG96] AT+QMT[37mOPEN result[[37m3]: Failed [37mto activate [37mPDP[37m[37m
+[B[37mG96] AT+QMT[37mOPEN result[[37m3]: Failed to activate [37mPDP[37m[37m
+[B[37mG96] AT+QMTOPEN result[[37m3]: Failed t[37mo[37m activate [37mPDP[37m[37m
+[B[37mG96] AT+QMTO[37mPEN result[[37m3]: Failed t[37mo activate [37mPDP[37m[37m
+[BG[37m96] AT+QMTO[37mPEN result[3][37m: Failed to[37m activate [37mPDP
+[MAIN] [MQTT] Sock[37met open faile[37md
+-0.06
+-0[37m.01
+-0.01[37m
+0.00
+GYRO[37m data updat[37med
+[37mE[37mLM32[37m7 data repre[37msenting....[37m.
+[37mE[37mL[37mM327 Data Lo[37mgging...
+[37me[37mffi[37mciencyMark :[37m 4.62 / 10 [37m
+averagecom[37mmandedThrot[37mtleActuator [37m: 47.03
+sa[37mfetyMark : 1[37m0.00 / 10 [37m
+Counter_Tim[37me : 0
+safe[37mtyScoreBuf :[37m good
+drivi[37mngMark : 7.[37m31 / 10 
+av[37meragedrivingMark : 7.3[37m9 / 10 
+pre[37m_commandedThr[37mottleActuat[37mor : 58.82[37m
+pre_f_acce[37mlX = -0.01
+[37mpre_f_accel[37mY[37m = 0.00
+pr[37me_rpm = 146[37m6
+pre_runT[37mime = 313
+p[37mre_kph = 0
+[37mpre_Data Updated
+[37m-[37m0.0[37m6
+-0.01
+0.0[37m1
+0.01
+GY[37mRO data upda[37mted
+[37mE[37mLM327 dat[37ma representi[37mng.....
+[37mE[37mLM327 D[37mata Logging[37m...
+[37me[37mffic[37miencyMark :[37m 4.62 / 10 [37m
+averagecom[37mmandedThrott[37mleActuator [37m: 45.72
+saf[37metyMark : 10[37m.00 / 10 
+[37mCounter_Time : 0
+safet[37myScoreBuf : [37mgood
+drivi[37mngMark : 7.3[37m1 / 10 
+ave[37mragedrivingM[37mark : 7.39[37m / 10 
+pre[37m_commandedThr[37mo[37mttleActuat[37mor : 24.71[37m
+pre_f_accelX[37m = 0.01
+p[37mre_f_accelY [37m= 0.01
+pre_[37mrpm = 1757
+[37mpre_runTim[37me = 317
+pr[37me_kph = 0
+pre_Data Upda[37mted
+-0.06[37m
+[37m-0.01
+-0.00
+0.00
+GYR[37mO data update[37md
+[37mE[37mLM[37m327 data rep[37mresenting...[37m..
+[37mE[37mL[37mM327 Data Lo[37mgging...
+[37mc[37mount[37mer_Rpm : 5
+[37mefficiencyM[37mark : 4.53 / 10 
+averag[37mecommandedT[37mhrottleActu[37mator : 44.73[37m
+safetyMar[37mk : 10.00 / [37m10 
+Counte[37mr_Time : 0
+[37msafetyScore[37mBuf : good
+[37mdrivingMark[37m : 7.27 / 10[37m 
+averaged[37mrivingMark :[37m 7.38 / 10 [37m
+pre_comman[37mdedThrottleA[37mctuator : 2[37m7.84
+pre_f_[37maccelX = -0[37m.00
+pre_f_a[37mccelY = 0.00
+pre_rpm =[37m 2470
+pre_[37mrunTime = 32[37m0
+pre_kph [37m= 0
+pre_Data[37m Updated
+[37m-[37m0[37m.04
+-0.01[37m
+0.01
+-0.00
+GYRO data [37mupdated
+[37mE[37mLM3[37m27 data repr[37mesenting...[37m..
+[37mE[37mLM[37m327 Data Lo[37mgging...
+[37m[37m공회[37m전 counter_[37mThrottle+ :[37m 2
+efficien[37mcyMark : 4.[37m54 / 10 
+ave[37mragecomman[37mdedThrottleA[37mctuator : 4[37m4.99
+safety[37mMark : 10.00 / 10 
+Cou[37mnter_Time : [37m0
+safetyScoreBuf : go[37mod
+drivingM[37mark : 7.27 [37m/ 10 
+avera[37mgedrivingMa[37mrk : 7.38 / 1[37m0 
+pre_commandedThrott[37mleActuator[37m : 49.80
+pr[37me_f_accelX [37m= 0.01
+pre_f_[37maccelY = [37m-0.00
+pre_r[37mpm = 1300
+p[37mre_runTime [37m= 324
+pre_kph = 0
+pre[37m_Data Update[37md
+[37m[37m
+[BG9[37m6] AT+QMTOPE[37mN result[3][37m: Failed to [37mactivate PD[37mP[37m[37m
+[BG96[37m] AT+QMTOPE[37mN result[3]:[37m Failed to activate PDP[37m[37m
+[BG96[37m] AT+QMTOPEN [37mresult[3]: [37mFailed to a[37mctivate PDP[37m[37m
+[BG96[37m] AT+QMTOPE[37mN result[3]:[37m Failed to a[37mctivate PDP[37m[37m
+[BG96[37m] AT+QMTOPEN [37mresult[3]: F[37mailed to ac[37mtivate PDP[37m[37m
+[BG96[37m] AT+QMTOPEN[37m result[3]:[37m Failed to a[37mctivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN[37m result[3]:[37m Failed to a[37mctivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN[37m result[3]: [37mFailed to a[37mctivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN r[37mesult[3]: [37mFailed to a[37mctivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN[37m result[3]: [37mFailed to a[37mctivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN [37mresult[3]: [37mFailed to ac[37mtivate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN[37m result[3]: F[37mailed to ac[37mtivate PDP[37m[37m
+[BG96] [37mAT+QMTOPEN [37mresult[3]: [37mFailed to ac[37mtivate PDP[37m[37m
+[BG96] A[37mT+QMTOPEN r[37mesult[3]: F[37mailed to act[37mivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN [37mresult[3]: [37mFailed to ac[37mtivate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN [37mresult[3]: [37mFailed to ac[37mtivate PDP
+[37m[MAIN] [MQT[37mT] Socket op[37men failed
+-[37m0.04
+-0.01[37m
+-0.00
+-0.00
+GYRO dat[37ma updated[37m
+[37mE[37mL[37mM327 data r[37mepresenting[37m.....
+[37mE[37mL[37mM327 Data [37mLogging...[37m
+[37me[37mfficienc[37myMark : 4.5[37m6 / 10 
+av[37meragecommanded[37mThrottleAct[37muator : 43[37m.84
+safetyM[37mark : 10.00[37m / 10 
+Cou[37mnter_Time : [37m0
+safetySco[37mreBuf : goo[37md
+drivingMa[37mrk : 7.28 / [37m10 
+average[37mdrivingMark : 7.37 / 1[37m0 
+pre_com[37mmandedThrott[37mleActuator [37m: 21.96
+pre[37m_f_accelX =[37m -0.00
+pre_[37mf_accelY = [37m-0.00
+pre_r[37mpm = 1271
+pre_runTime [37m= 344
+pre_[37mkph = 0
+pre[37m_Data Updated
+[37m-[37m0[37m.04
+0.00
+-0[37m.01
+-0.01
+GYRO data [37mupdated
+[37mE[37mL[37mM327 data re[37mpresenting.....
+[37mE[37mL[37mM327 Data Logging...[37m
+[37mc[37mo[37munter_R[37mpm : 6
+efficiencyMark [37m: 4.48 / 10 [37m
+averagecom[37mmandedThrot[37mtleActuator[37m : 44.71
+sa[37mfetyMark : [37m10.00 / 10 [37m
+Counter_Ti[37mme : 0
+safet[37myScoreBuf [37m: good
+driv[37mingMark : 7.[37m24 / 10 
+a[37mveragedrivi[37mngMark : 7.3[37m7 / 10 
+pre_commandedT[37mhrottleActua[37mtor : 61.96[37m[37m
+pre_f_acc[37melX = -0.01
+[37mpre_f_accel[37mY = -0.01
+pre_rpm = 2[37m391
+pre_run[37mTime = 348[37m
+pre_kph = 0[37m
+pre_Data U[37mpdated
+-0.06
+-0.01
+0.[37m00
+-0.00
+GYRO data up[37mdated
+[37mE[37mLM327 data[37m representi[37mng.....
+[37mE[37mLM327 Dat[37ma Logging..[37m.
+[37me[37mf[37mficienc[37myMark : 4.49[37m / 10 
+aver[37magecommanded[37mThrottleAct[37muator : 45.[37m49
+safetyMa[37mrk : 10.00 / 10 
+Coun[37mter_Time : 0[37m
+safetyScor[37meBuf : good[37m
+drivingMark[37m : 7.24 / 10 
+averaged[37mrivingMark[37m : 7.36 / 10[37m 
+pre_comm[37mandedThrottl[37meActuator :[37m 61.96
+pre_f[37m_accelX = [37m0.00
+pre_f_[37maccelY = -0[37m.00
+pre_rpm [37m= 2832
+pre_runTime = [37m352
+pre_kp[37mh = 0
+pre_D[37mata Updated[37m
+[37m-[37m0[37m.08
+-0.01[37m
+-0.00
+-0.[37m01
+GYRO dat[37ma updated
+[37mE[37mL[37mM327 data re[37mpresenting[37m.....
+[37mE[37mL[37mM327 Data Logging...[37m
+[37me[37mf[37mficiency[37mMark : 4.49[37m / 10 
+aver[37magecommande[37mdThrottleActuator : 45.4[37m6
+safetyMa[37mrk : 10.00 [37m/ 10 
+Counter[37m_Time : 0[37m
+safetyScor[37meBuf : good[37m
+drivingMar[37mk : 7.25 / 10 
+average[37mdrivingMark [37m: 7.36 / 10[37m 
+pre_comma[37mndedThrottleA[37mctuator : 4[37m4.71
+pre_f[37m_accelX = -[37m0.00
+pre_f[37m_accelY = -0[37m.01
+pre_rpm[37m = 2643
+pre[37m_runTime = [37m356
+pre_kp[37mh = 0
+pre_Data Updated[37m
+[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN res[37mult[3]: Fail[37med to activa[37mte PDP[37m[37m
+[37m[BG96] AT[37m+QMTOPEN re[37msult[3]: Fai[37mled to activa[37mte PDP[37m[37m
+[BG96] AT[37m+QMTOPEN re[37msult[3]: Fai[37mled to acti[37mvate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN res[37mult[3]: Fai[37mled to activ[37mate PDP[37m[37m
+[37m[BG96] AT[37m+QMTOPEN resu[37mlt[3]: Fai[37mled to activ[37mate PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN result[3]: Fail[37med to activ[37mate PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN result[3]: Fail[37med to activ[37mate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN resu[37mlt[3]: Fail[37med to activ[37mate PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN result[3]: Fail[37med to activat[37me PDP[37m[37m
+[37m[BG96] AT+QMTOPEN resu[37mlt[3]: Fail[37med to activ[37mate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN resu[37mlt[3]: Fail[37med to activa[37mte PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN resu[37mlt[3]: Fail[37med to activate PDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN resu[37mlt[3]: Fail[37med to activa[37mte PDP[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN resu[37mlt[3]: Failed to activate[37m PDP[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN result[3]: Failed[37m to activat[37me PDP[37m[37m
+[BG96] AT+Q[37mMTOPEN resul[37mt[3]: Failed to activa[37mte PDP
+[MAI[37mN] [MQTT] S[37mocket open fa[37miled
+[37m-[37m0[37m.01
+0.00
+-[37m0.01
+0.01[37m
+GYRO data u[37mpdated
+[37mE[37mL[37mM327 data r[37mepresenting[37m.....
+[37mE[37mL[37mM327 Data[37m Logging...
+[37me[37mf[37mficiencyMar[37mk : 4.52 / 10 
+averag[37mecommandedTh[37mrottleActuato[37mr : 44.51[37m
+[37msafetyMark : 10.00 / 1[37m0 
+Counter_T[37mime : 0
+saf[37metyScoreBu[37mf : good
+d[37mrivingMark :[37m 7.26 / 10 [37m
+averagedri[37mvingMark : 7[37m.35 / 10 
+[37mpre_commande[37mdThrottleAc[37mtuator : 22.[37m75
+pre_f_a[37mccelX = -0.[37m01
+pre_f_acc[37melY = 0.01[37m
+pre_rpm = 1[37m348
+pre_r[37munTime = 375[37m
+pre_kph = [37m0
+pre_Data[37m Updated
+[37m-0[37m.01
+-[37m0.02
+-0.01[37m
+0.00
+GYRO[37m data update[37md
+[37mE[37mL[37mM327 data representing.[37m....
+[37mE[37mL[37mM327 Data Logging...[37m
+[37mc[37mo[37munter_Rpm : [37m7
+efficiencyMark : 4.[37m45 / 10 
+av[37meragecomman[37mdedThrottleA[37mctuator : 4[37m3.56
+safety[37mMark : 10.0[37m0 / 10 
+Coun[37mter_Time :[37m 0
+safetySc[37moreBuf : good
+drivingM[37mark : 7.22 /[37m 10 
+avera[37mgedrivingMark[37m : 7.35 / [37m10 
+pre_com[37mmandedThrott[37mleActuator :[37m 20.78
+pr[37me_f_accelX [37m= -0.01
+pre[37m_f_accelY = [37m0.00
+pre_rpm[37m = 2991
+pre_runTime [37m= 379
+pre_kp[37mh = 0
+pre[37m_Data Updated
+[37m-[37m0.0[37m0
+-0.01
+0[37m.00
+0.02
+G[37mYRO data up[37mdated
+[37mE[37mLM327 dat[37ma representi[37mng.....
+[37mE[37mLM327 Da[37mta Logging.[37m..
+[37me[37mf[37mficiencyMark [37m: 4.45 / 1[37m0 
+averagec[37mommandedThrottleActuato[37mr : 44.42
+[37msafetyMark :[37m 10.00 / 10 [37m
+Counter_T[37mime : 0
+sa[37mfetyScoreBuf[37m : good
+dr[37mivingMark : 7[37m.23 / 10 [37m
+averagedrivingMark : 7.[37m34 / 10 
+p[37mre_commandedThrottleActu[37mator : 65.8[37m8
+pre_f_ac[37mcelX = 0.00
+[37mpre_f_accel[37mY = 0.02
+pr[37me_rpm = 1790[37m
+pre_runT[37mime = 383
+[37mpre_kph = 0
+pre_Data U[37mpdated
+[37m[37m
+[37m[BG96] AT+QMTOPEN resu[37mlt[3]: Fai[37mled to activ[37mate PDP[37m[37m
+[[37mBG96] AT+QMTOPEN result[37m[[37m3]: Failed[37m to activate[37m PDP[37m[37m
+[[37mBG96] AT+QMTO[37mPEN result[37m[3]: Failed [37mto activate PDP[37m[37m
+[[37mBG96] AT+QMT[37mOPEN result[37m[3]: Failed to activate [37mPDP[37m[37m
+[[37mBG96] AT+QMT[37mOPEN result[37m[3]: Failed to activate [37mPDP[37m[37m
+[B[37mG96] AT+QMT[37mOPEN result[[37m3]: Failed [37mto activate [37mPDP[37m[37m
+[B[37mG96] AT+QMTO[37mPEN result[[37m3]: Failed to activate [37mPDP[37m[37m
+[37m[BG96] AT+QMTOP[37mEN result[[37m3]: Failed [37mto activate [37mPDP[37m[37m
+[B[37mG96] AT+QMTO[37mPEN result[[37m3]: Failed [37mto activate [37mPDP[37m[37m
+[B[37mG96] AT+QMTO[37mPEN result[3[37m]: Failed t[37mo activate PDP[37m[37m
+[B[37mG96] AT+QMTO[37mPEN result[[37m3]: Failed t[37mo activate [37mPDP[37m[37m
+[B[37mG96] AT+QMTO[37mPEN result[3[37m]: Failed t[37mo activate [37mPDP[37m[37m
+[BG96] AT+QMTO[37mPEN result[[37m3]: Failed t[37mo activate PD[37mP[37m[37m
+[BG[37m96] AT+QMTO[37mPEN result[3[37m]: Failed t[37mo activate PD[37mP[37m[37m
+[BG[37m96] AT+QMTO[37mPEN result[3]: Failed t[37mo activate PD[37mP[37m[37m
+[BG[37m96] AT+QMTOP[37mEN result[3[37m]: Failed to[37m activate P[37mDP
+[MAIN] [MQTT] Socket[37m open failed[37m
+[37m0[37m.0[37m1
+-0.01
+-0[37m.01
+-0.00[37m
+GYRO data updated
+[37mE[37mLM32[37m7 data repr[37mesenting....[37m.
+[37mE[37mL[37mM327 Data Log[37mging...
+[37mc[37mount[37mer_Rpm : 8
+[37mefficiencyM[37mark : 4.40 /[37m 10 
+avera[37mgecommandedT[37mhrottleActu[37mator : 43.99[37m
+safetyMar[37mk : 10.00 / [37m10 
+Counte[37mr_Time : 0
+[37msafetyScoreBuf : good
+[37mdrivingMark[37m : 7.20 / 10[37m 
+averagedr[37mivingMark :[37m 7.34 / 10 [37m
+pre_comman[37mdedThrottle[37mActuator : 3[37m2.94
+pre_f[37m_accelX = -0[37m.01
+pre_f_ac[37mcelY = -0.0[37m0
+pre_rpm [37m= 2220
+pre_runTime = [37m403
+pre_kph[37m = 0
+pre_D[37mata Updated[37m
+[37m-[37m0.[37m01
+-0.[37m03
+-0.01
+0.00
+GYRO da[37mta updated
+[37mE[37mL[37mM327 data r[37mepresenting[37m.....
+[37mE[37mL[37mM327 Data[37m Logging...[37m
+[37me[37mfficie[37mncyMark : [37m4.41 / 10 [37m
+averagecomm[37mandedThrott[37mleActuator :[37m 43.31
+saf[37metyMark : 10[37m.00 / 10 
+[37mCounter_Time : 0
+safet[37myScoreBuf : [37mgood
+driving[37mMark : 7.21 / 10 
+ave[37mragedrivingM[37mark : 7.33 [37m/ 10 
+pre_[37mcommandedThr[37mottleActuat[37mor : 24.71
+[37mpre_f_accel[37mX = -0.01
+p[37mre_f_accelY[37m = 0.00
+pre[37m_rpm = 2760[37m
+pre_runTim[37me = 407
+pr[37me_kph = 0
+pr[37me_Data Updated
+-0.01[37m
+-0.02
+-0.0[37m0
+0.00
+GY[37mRO data upda[37mted
+[37mE[37mLM327 d[37mata represe[37mnting.....
+[37mE[37mLM327[37m Data Loggin[37mg...
+[37m[37m공회[37m전 counter[37m_Throttle+ :[37m 3
+efficien[37mcyMark : 4.4[37m2 / 10 
+av[37meragecomman[37mdedThrottleA[37mctuator : 4[37m3.71
+safety[37mMark : 10.00 / 10 
+Cou[37mnter_Time :[37m 0
+safetyScoreBuf : go[37mod
+drivingM[37mark : 7.21 [37m/ 10 
+avera[37mgedrivingMa[37mrk : 7.33 / [37m10 
+pre_co[37mmmandedThrot[37mtleActuator[37m : 54.90
+pr[37me_f_accelX = -0.00
+pre[37m_f_accelY = 0[37m.00
+pre_r[37mpm = 1005
+[37mpre_runTime = 411
+pre_k[37mph = 0
+pre[37m_Data Updat[37med
+-0.01
+-[37m0.01
+-0.00
+-0.01
+GYR[37mO data update[37md
+[37mE[37mLM327 data[37m representing[37m.....
+[37mE[37mL[37mM327 Da[37mta Logging...
+[37me[37mfficien[37mcyMark : 4.[37m42 / 10 
+[37maveragecomma[37mndedThrottl[37meActuator : [37m44.75
+safe[37mtyMark : 10.[37m00 / 10 
+C[37mounter_Time [37m: 0
+safety[37mScoreBuf : g[37mood
+driving[37mMark : 7.21 / 10 
+aver[37magedrivingM[37mark : 7.32 /[37m 10 
+pre_c[37mommandedThro[37mttleActuator [37m: 74.90
+p[37mre_f_accelX[37m = -0.00
+pr[37me_f_accelY [37m= -0.01
+pre_rpm = 1736[37m
+pre_runTim[37me = 415
+pre[37m_kph = 0
+p[37mre_Data Updated
+[37m[37m
+[BG[37m96] AT+QMTOPEN result[3[37m]: Failed to activate P[37mDP[37m[37m
+[BG96[37m] AT+QMTOPEN[37m result[3]:[37m Failed to a[37mctivate PDP[37m[37m
+[BG96[37m] AT+QMTOPEN[37m result[3]: F[37mailed to a[37mctivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN [37mresult[3]:[37m Failed to a[37mctivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN[37m result[3]: [37mFailed to ac[37mtivate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN[37m result[3]: [37mFailed to a[37mc[37mtivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN[37m [37mresult[3]: [37mFailed to activate PDP[37m[37m
+[BG96] [37mAT+QMTOPEN [37mresult[3]: [37mFailed to ac[37mtivate PDP[37m[37m
+[37m[BG96][37m AT+QMTOPEN result[3]: [37mFailed to ac[37mtivate PDP[37m[37m
+[37m[BG96][37m AT+QMTOPEN [37mresult[3]: Fa[37miled to ac[37mtivate PDP[37m[37m
+[BG96] A[37mT+QMTOPEN re[37msult[3]: F[37mailed to ac[37mtivate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN [37mresult[3]: F[37mailed to ac[37mtivate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN [37mresult[3]: F[37mailed to act[37mivate PDP[37m[37m
+[BG96] [37mAT+QMTOPEN r[37mesult[3]: F[37mailed to act[37mivate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN r[37mesult[3]: F[37mailed to acti[37mvate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN re[37msult[3]: F[37mailed to act[37mivate PDP
+[37m[MAIN] [MQTT[37m] Socket ope[37mn failed
+[37m0[37m.[37m01
+-0.01[37m
+0.01
+0.01[37m
+GYRO data u[37mpdated
+[37mE[37mLM327 data[37m representi[37mng.....
+[37mE[37mLM327 D[37mata Logging.[37m..
+[37me[37mf[37mficienc[37myMark : 4.45 / 10 
+ave[37mragecommande[37mdThrottleAct[37muator : 44.[37m87
+safetyMa[37mrk : 10.00 [37m/ 10 
+Count[37mer_Time : 0[37m
+safetySco[37mreBuf : good[37m
+drivingMa[37mrk : 7.22 / [37m10 
+averaged[37mrivingMark [37m: 7.32 / 10 
+pre_comma[37mndedThrott[37mleActuator :[37m 48.63
+pre[37m_f_accelX = [37m0.01
+pre_f[37m_accelY = 0.01
+pre_rpm[37m = 752
+pre_[37mrunTime = 43[37m4
+pre_kph [37m= 0
+pre_Data Updated
+[37m0[37m.01[37m
+-0.02
+0.00[37m
+-0.00
+GY[37mRO data updated
+[37mE[37mL[37mM327 dat[37ma represent[37ming.....
+[37mi[37mn[37mstantFuelC[37monsume : 0.0[37m0
+commande[37mdAirFuelRat[37mio : 0.00
+A[37mFR : 14.70
+[37mE[37mLM32[37m7 Data Logging[37m...
+[37me[37mf[37mficienc[37myMark : 4.45[37m / 10 
+averageFuelCons[37mume : 0.00
+[37msafetyMark [37m: 10.00 / 1[37m0 
+Counter_[37mTime : 0
+sa[37mfetyScoreBu[37mf : good
+dr[37mivingMark :[37m 7.23 / 10 [37m
+averagedri[37mvingMark : 7[37m.32 / 10 
+[37mpre_instantF[37muelConsume = 0.00
+pre_[37mf_accelX = [37m0.00
+pre_f_[37maccelY = -0[37m.00
+pre_rpm[37m = 1020
+pr[37me_runTime = [37m438
+pre_kp[37mh = 0
+pre_D[37mata Updated[37m
+[37m-[37m0[37m.01
+-0.02[37m
+0.01
+0.0[37m1
+GYRO data[37m updated

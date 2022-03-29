@@ -1,0 +1,34 @@
+[37mI[37mnitiali[37mzing I2C devic[37mes...
+[37mT[37mesti[37mng device c[37monnections...[37m
+MPU6050 c[37monnection s[37mu[37mccessful
+I[37mnitializing DMP...
+[37m
+[37mRead[37ming sensors [37mfor first t[37mime...
+[37m.[37m..
+3[37mSeconds
+
+C[37malculating o[37mffsets...
+[37m
+[37mFINIS[37mHED!
+
+Sens[37mor readings [37mwith offsets[37m:	
+[37mg[37myroX_of[37mfset = -141.[37m00
+gyroY_o[37mffset = -109[37m.00
+gyroZ_[37moffset = -5.[37m00
+accelX_of[37mfset = -40[37m09.00
+accel[37mY_offset = 8[37m34.00
+acc[37melZ_offset =[37m 1181.00
+[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m[37m
+[37m
+//   [37m        X Accel  Y Acce[37ml  Z Accel  [37m X Gyro   Y[37m Gyro   Z Gy[37mr[37mo
+//OFFSETS[37m    -4019, [37m    862,   [37m 1189,    -1[37m40,    -109[37m,      -5
+En[37mabling DMP.[37m..
+Enabling[37m interrupt [37mdetection (A[37mrduino extern[37mal interru[37mpt 13)...
+D[37mMP ready! Wa[37miting for f[37mirst interr[37mupt...
+[37mE[37mL[37mM327 Connecte[37md
+[37mI[37mnitial[37mizing SD ca[37mrd...[37mc[37mard init[37mialized.
+[37mL[37mogging to[37m: LOG01556.C[37mSV
+[37mF[37mree spa[37mce KB: 29618[37m112
+Free s[37mpace in MB: [37m28923
+[37m[37m
+[MAIN] Wa[37mi[37mting for Ca[37mt.M1 Module[37m Ready...

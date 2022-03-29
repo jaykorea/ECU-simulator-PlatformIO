@@ -1,0 +1,966 @@
+[37mI[37mn[37mitializing [37mI[37m2C devices.[37m.[37m.
+[37mT[37me[37msting de[37mv[37mice connect[37mi[37mons...
+MP[37mU[37m6050 connec[37mt[37mion succes[37ms[37mful
+Initia[37ml[37mizing DMP.[37m.[37m.
+[37m
+[37mR[37meading s[37me[37mnsors for f[37mi[37mrst time...[37m[37m
+[37m.[37m.[37m.
+4Secon[37md[37ms
+
+Calcula[37mt[37ming offset[37ms[37m...
+[37m
+[37mF[37mINISHED!
+
+S[37me[37mnsor rea[37md[37mings with o[37mf[37mfsets:	
+[37mg[37my[37mroX_of[37mf[37mset = -125[37m.[37m00
+gyroY_of[37mf[37mset = -11[37m4[37m.00
+gyroZ_[37mo[37mffset = -1[37m.[37m00
+accelX_[37mo[37mffset = -4[37m0[37m22.00
+acce[37ml[37mY_offset =[37m [37m833.00
+acc[37me[37mlZ_offset [37m=[37m 1154.00
+[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m[37m
+[37m
+//      [37m [37m    X Accel[37m [37m Y Accel  [37mZ[37m Accel   X[37m [37mGyro   Y Gy[37mr[37mo   Z Gyro[37m
+[37m//OFFSETS  [37m [37m -4032,    [37m [37m863,    11[37m5[37m4,    -125,[37m [37m   -114,  [37m [37m   -1
+Enab[37ml[37ming DMP...[37m
+[37mEnabling i[37mn[37mterrupt det[37me[37mction (Ard[37mu[37mino externa[37ml[37m interrupt[37m [37m13)...
+DMP[37m [37mready! Wai[37mt[37ming for fir[37ms[37mt interrupt[37m.[37m..
+[37mC[37ml[37mearing inp[37mu[37mt serial b[37mu[37mffer
+Sendi[37mn[37mg the foll[37mo[37mwing comman[37md[37m/query: AT[37m [37mD
+	Receive[37md[37m char: A
+	[37mR[37meceived ch[37ma[37mr: T
+	Rece[37mi[37mved char: [37m [37m
+	Received[37m [37mchar: D
+	[37mR[37meceived cha[37mr[37m: \r
+	Rec[37me[37mived char: [37m\[37mr
+	Receiv[37me[37md char: O
+[37m	[37mReceived c[37mh[37mar: K
+	Rec[37me[37mived char:[37m [37m\r
+	Receiv[37me[37md char: \r[37m[37m
+	Received [37mc[37mhar: >
+De[37ml[37mimiter foun[37md[37m
+All char[37ms[37m received: [37mA[37mTDOK
+[37mC[37ml[37mearing inp[37mu[37mt serial bu[37mf[37mfer
+Sendi[37mn[37mg the follo[37mw[37ming comman[37md[37m/query: AT [37mZ[37m
+	Received[37m [37mchar: A
+	[37mR[37meceived cha[37mr[37m: T
+	Rece[37mi[37mved char:  [37m[37m
+	Received[37m [37mchar: Z
+	R[37me[37mceived cha[37mr[37m: \r
+[37m	[37mR[37meceived char[37m:[37m \r
+	Rece[37mi[37mved char: \[37mr[37m
+	Receive[37md[37m char: E
+	[37mR[37meceived ch[37ma[37mr: L
+	Rece[37mi[37mved char: [37mM[37m
+	Received[37m [37mchar: 3
+	[37mR[37meceived cha[37mr[37m: 2
+	Rece[37mi[37mved char: 7[37m[37m
+	Received[37m [37mchar:  
+	R[37me[37mceived cha[37mr[37m: v
+	Recei[37mv[37med char: 1[37m[37m
+	Received [37mc[37mhar: .
+	R[37me[37mceived char[37m:[37m 5
+	Recei[37mv[37med char: \r[37m[37m
+	Received[37m [37mchar: \r
+	[37mR[37meceived ch[37ma[37mr: >
+Delim[37mi[37mter found[37m
+[37mAll chars r[37me[37mceived: ATZ[37mE[37mLM327v15
+[37mC[37ml[37mearing inpu[37mt[37m serial bu[37mf[37mfer
+Sendin[37mg[37m the follo[37mw[37ming comman[37md[37m/query: AT [37mE[37m0
+	Receiv[37me[37md char: A
+[37m	[37mReceived c[37mh[37mar: T
+	Rec[37me[37mived char:[37m [37m 
+	Receive[37md[37m char: E
+	[37mR[37meceived ch[37ma[37mr: 0
+	Rece[37mi[37mved char: [37m\[37mr
+	Receive[37md[37m char: O
+[37m	[37mReceived ch[37ma[37mr: K
+	Rec[37me[37mived char: [37m\[37mr
+	Receiv[37me[37md char: \r[37m
+[37m	Received [37mc[37mhar: >
+Del[37mi[37mmiter foun[37md[37m
+All chars[37m [37mreceived: [37mA[37mTE0OK
+[37mC[37ml[37mearing inpu[37mt[37m serial bu[37mf[37mfer
+Sendin[37mg[37m the follo[37mw[37ming command[37m/[37mquery: AT [37mS[37m0
+	Receive[37md[37m char: O
+[37m	[37mReceived ch[37ma[37mr: K
+	Rec[37me[37mived char: [37m\[37mr
+	Receiv[37me[37md char: \r[37m
+[37m	Received [37mc[37mhar: >
+Del[37mi[37mmiter foun[37md[37m
+All chars[37m [37mreceived: [37mO[37mK
+[37mC[37ml[37mearing inpu[37mt[37m serial bu[37mf[37mfer
+Sendi[37mn[37mg the follo[37mw[37ming comman[37md[37m/query: AT [37mA[37mL
+	Receiv[37me[37md char: O
+[37m	[37mReceived c[37mh[37mar: K
+	Rec[37me[37mived char: [37m\[37mr
+	Receiv[37me[37md char: \r[37m
+[37m	Received [37mc[37mhar: >
+Del[37mi[37mmiter foun[37md[37m
+All chars[37m [37mreceived: [37mO[37mK
+[37mC[37ml[37mearing inp[37mu[37mt serial [37mb[37muffer
+Send[37mi[37mng the fol[37ml[37mowing comma[37mn[37md/query: A[37mT[37m TP A0
+	Re[37mc[37meived char:[37m [37mO
+	Receiv[37me[37md char: K
+[37m	[37mReceived c[37mh[37mar: \r
+	Re[37mc[37meived char[37m:[37m \r
+	Recei[37mv[37med char: >[37m[37m
+Delimiter [37mf[37mound
+All [37mc[37mhars receiv[37me[37md: OK
+ELM[37m3[37m27 Connecte[37md[37m
+[37mI[37mn[37mitializing[37m [37mSD card...[37mC[37ma[37mr[37md[37m failed, or[37m [37mnot presen[37mt[37m
+[37mc[37mould[37mn[37mt create fi[37ml[37me
+[37mL[37mog[37mg[37ming to: LOG[37m0[37m0000.CSV
+[37mF[37mr[37mee space K[37mB[37m: 0
+Free s[37mp[37mace in MB:[37m [37m0
+LOW SPAC[37mE[37m!!!
+[37m[37m
+[MAIN] Wai[37mt[37ming for Ca[37mt[37m.M1 Module[37m [37mReady...
+[37me[37mt[37ms Jun  [37m8[37m 2016 00:22[37m:[37m57
+
+rst:0[37mx[37m1 (POWERON_[37mR[37mESET),boot[37m:[37m0x17 (SPI_F[37mA[37mST_FLASH_BO[37mO[37mT)
+configs[37mi[37mp: 0, SPIW[37mP[37m:0xee
+clk_[37md[37mrv:0x00,q_d[37mr[37mv:0x00,d_dr[37mv[37m:0x00,cs0_[37md[37mrv:0x00,hd_[37md[37mrv:0x00,wp_[37md[37mrv:0x00
+mo[37md[37me:DIO, cloc[37mk[37m div:1
+lo[37ma[37md:0x3fff001[37m8[37m,len:4
+loa[37md[37m:0x3fff001[37mc[37m,len:1044
+[37ml[37moad:0x40078[37m0[37m00,len:101[37m2[37m4
+load:0x4[37m0[37m080400,len:[37m5[37m856
+entry [37m0[37mx400806a8[37m
+[37mI[37mniti[37ma[37mlizing I2C [37md[37mevices...[37m
+[37mT[37me[37msting devic[37me[37m connection[37ms[37m...
+MPU60[37m5[37m0 connectio[37mn[37m successfu[37ml[37m
+Initializ[37mi[37mng DMP...[37m
+[37m
+[37mR[37meading senso[37mr[37ms for firs[37mt[37m time...
+[37m.[37m.[37m.
+4Seconds
+[37m
+[37mCalculatin[37mg[37m offsets..[37m.[37m
+[37m
+[37mFIN[37mI[37mSHED!
+
+Se[37mn[37msor readings[37m [37mwith offs[37me[37mts:	
+[37mg[37my[37mroX_offse[37mt[37m = -128.00[37m[37m
+gyroY_offs[37me[37mt = -113.0[37m0[37m
+gyroZ_off[37ms[37met = -2.00[37m[37m
+accelX_off[37ms[37met = -4026[37m.[37m00
+accelY_[37mo[37mffset = 85[37m1[37m.00
+accelZ[37m_[37moffset = 1[37m1[37m63.00
+[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m[37m
+[37m
+[37m//         [37m [37m X Accel  [37mY[37m Accel  Z A[37mc[37mcel   X Gy[37mr[37mo   Y Gyro [37m [37m Z Gyro
+//[37mO[37mFFSETS    -[37m4[37m036,     8[37m8[37m1,    1171,[37m [37m   -128,  [37m [37m -113,     [37m [37m-2
+Enablin[37mg[37m DMP...
+En[37ma[37mbling inte[37mr[37mrupt detect[37mi[37mon (Arduin[37mo[37m external i[37mn[37mterrupt 13)[37m.[37m..
+DMP re[37ma[37mdy! Waiting[37m [37mfor first [37mi[37mnterrupt...[37m[37m
+[37mC[37mle[37ma[37mring input [37ms[37merial buff[37me[37mr
+Sending [37mt[37mhe followi[37mn[37mg command/q[37mu[37mery: AT D[37m
+[37m	Received c[37mh[37mar: \r
+	R[37me[37mceived char[37m:[37m O
+	Recei[37mv[37med char: K[37m
+[37m	Received [37mc[37mhar: \r
+	R[37me[37mceived char[37m:[37m \r
+	Rece[37mi[37mved char: >[37m[37m
+Delimiter[37m [37mfound
+All [37mc[37mhars recei[37mv[37med: OK
+[37mC[37mlea[37mr[37ming input [37ms[37merial buffe[37mr[37m
+Sending [37mt[37mhe followin[37mg[37m command/q[37mu[37mery: AT Z
+[37m	[37mReceived c[37mh[37mar: A
+	Rec[37me[37mived char:[37m [37mT
+	Receive[37md[37m char:  
+	[37mR[37meceived ch[37ma[37mr: Z
+	Rece[37mi[37mved char: [37m\[37mr
+[37m	[37mRece[37mi[37mved char: [37m\[37mr
+	Receive[37md[37m char: \r[37m
+[37m	Received c[37mh[37mar: E
+	Rec[37me[37mived char:[37m [37mL
+	Receive[37md[37m char: M
+[37m	[37mReceived ch[37ma[37mr: 3
+	Rec[37me[37mived char: [37m2[37m
+	Receive[37md[37m char: 7
+	[37mR[37meceived ch[37ma[37mr:  
+	Rece[37mi[37mved char: [37mv[37m
+	Received[37m [37mchar: 1
+	[37mR[37meceived cha[37mr[37m: .
+	Rece[37mi[37mved char: 5[37m[37m
+	Received[37m [37mchar: \r
+	[37mR[37meceived ch[37ma[37mr: \r
+	Rec[37me[37mived char:[37m [37m>
+Delimite[37mr[37m found
+All[37m [37mchars rece[37mi[37mved: ATZELM[37m3[37m27v15
+[37mC[37mlea[37mr[37ming input [37ms[37merial buffe[37mr[37m
+Sending [37mt[37mhe followin[37mg[37m command/q[37mu[37mery: AT E0[37m
+[37m	Received [37mc[37mhar: A
+	Re[37mc[37meived char[37m:[37m T
+	Receiv[37me[37md char:  [37m
+[37m	Received c[37mh[37mar: E
+	Re[37mc[37meived char:[37m [37m0
+	Receive[37md[37m char: \r[37m
+[37m	Received c[37mh[37mar: O
+	Re[37mc[37meived char:[37m [37mK
+	Receiv[37me[37md char: \r[37m
+[37m	Received [37mc[37mhar: \r
+	R[37me[37mceived cha[37mr[37m: >
+Delimi[37mt[37mer found
+[37mA[37mll chars re[37mc[37meived: ATE[37m0[37mOK
+[37mC[37mlea[37mr[37ming input s[37me[37mrial buffe[37mr[37m
+Sending [37mt[37mhe followin[37mg[37m command/q[37mu[37mery: AT S0[37m
+[37m	Received c[37mh[37mar: O
+	Re[37mc[37meived char:[37m [37mK
+	Receiv[37me[37md char: \r[37m
+[37m	Received [37mc[37mhar: \r
+	R[37me[37mceived cha[37mr[37m: >
+Delimi[37mt[37mer found
+[37mA[37mll chars re[37mc[37meived: OK[37m
+[37mC[37ml[37mea[37mr[37ming input se[37mr[37mial buffe[37mr[37m
+Sending t[37mh[37me followin[37mg[37m command/qu[37me[37mry: AT AL[37m
+[37m	Received c[37mh[37mar: O
+	Re[37mc[37meived char:[37m [37mK
+	Receiv[37me[37md char: \r[37m
+[37m	Received [37mc[37mhar: \r
+	R[37me[37mceived cha[37mr[37m: >
+Delimi[37mt[37mer found
+[37mA[37mll chars re[37mc[37meived: OK[37m
+[37mC[37ml[37mearing input[37m [37mserial buff[37me[37mr
+Sending[37m [37mthe followi[37mn[37mg command/[37mq[37muery: AT TP[37m [37mA0
+	Recei[37mv[37med char: O[37m
+[37m	Received [37mc[37mhar: K
+	Re[37mc[37meived char[37m:[37m \r
+	Recei[37mv[37med char: \[37mr[37m
+	Received[37m [37mchar: >
+D[37me[37mlimiter fou[37mn[37md
+All cha[37mr[37ms received:[37m [37mOK
+ELM327[37m [37mConnected
+[37mI[37mn[37mit[37mi[37malizing SD [37mc[37mard...[37mC[37ma[37mrd f[37ma[37miled, or not[37m [37mpresent
+[37mc[37mo[37muldnt [37mc[37mreate file
+[37mL[37moggin[37mg[37m to: LOG000[37m0[37m0.CSV
+[37mF[37mree[37m [37mspace KB: 0[37m[37m
+Free spac[37me[37m in MB: 0
+[37mL[37mOW SPACE!![37m![37m
+[37m[37m
+[37m[MAIN] Waiti[37mn[37mg for Cat.M[37m1[37m Module Re[37ma[37mdy...
+[37m[37m
+[37m[MAIN] [37mB[37mG96 alread[37my[37m available[37m[37m
+[37m[37m
+[37m[MAIN] [37mS[37mystem Init [37mC[37momplete
+[37m[37m
+[37m[BG96] [37mE[37mcho Off: F[37ma[37miled
+
+[BG[37m9[37m6] Please [37mC[37mheck your H[37m/[37mW Status
+[37m[37m
+[37m[BG96] Ec[37mh[37mo Off: Suc[37mc[37mess
+[37m[37m
+[37m[BG96] P[37ml[37mease Check[37m [37myour H/W St[37ma[37mtus
+[37m[37m
+[B[37mG[37m96] Echo Of[37mf[37m: Success[37m
+[37m[37m
+[37m[BG96] P[37ml[37mease Check [37my[37mour H/W St[37ma[37mtus
+[37m[37m
+[B[37mG[37m96] Echo Of[37mf[37m: Success[37m
+[37m[37m
+[37m[BG96] Ple[37ma[37mse Check [37my[37mour H/W St[37ma[37mtus
+[37m[37m
+[37m[BG[37m9[37m6] Echo Off:[37m [37mSuccess
+[37m[37m
+[BG96] Pl[37me[37mase Check [37my[37mour H/W Sta[37mt[37mus
+[37m[37m
+[37m[BG[37m9[37m6] Echo Off[37m:[37m Success
+[37m[37m
+[37m[BG9[37m6[37m] Network S[37mt[37matus: 0, 3[37m[37m
+[BG96] Che[37mc[37mking APN..[37m.[37m
+[37me[37mts J[37mu[37mn  8 2016 [37m0[37m0:22:57
+
+[37mr[37mst:0x1 (POW[37mE[37mRON_RESET),[37mb[37moot:0x17 ([37mS[37mPI_FAST_FLA[37mS[37mH_BOOT)
+co[37mn[37mfigsip: 0, [37mS[37mPIWP:0xee[37m
+[37mclk_drv:0x0[37m0[37m,q_drv:0x00[37m,[37md_drv:0x00,[37mc[37ms0_drv:0x0[37m0[37m,hd_drv:0x0[37m0[37m,wp_drv:0x0[37m0[37m
+mode:DIO,[37m [37mclock div:[37m1[37m
+load:0x3f[37mf[37mf0018,len:4[37m[37m
+load:0x3ff[37mf[37m001c,len:1[37m0[37m44
+load:0x[37m4[37m0078000,len[37m:[37m10124
+load[37m:[37m0x40080400[37m,[37mlen:5856
+e[37mn[37mtry 0x40080[37m6[37ma8
+[37mI[37mn[37mitializing[37m [37mI2C device[37ms[37m...
+[37mT[37me[37msting d[37me[37mvice conne[37mc[37mtions...
+M[37mP[37mU6050 conn[37me[37mction succe[37ms[37msful
+Init[37mi[37malizing DMP[37m.[37m..
+[37m
+[37mR[37meading se[37mn[37msors for [37mf[37mirst time.[37m.[37m.
+[37m.[37m.[37m.
+4Sec[37mo[37mnds
+
+Calcu[37ml[37mating offse[37mt[37ms...
+[37m
+[37mF[37mINISHED![37m[37m
+
+Sensor rea[37md[37mings with[37m [37moffsets:	
+[37mg[37myroX_[37mo[37mffset = -13[37m1[37m.00
+gyroY[37m_[37moffset = -1[37m1[37m3.00
+gyro[37mZ[37m_offset = -[37m4[37m.00
+accel[37mX[37m_offset = -[37m4[37m021.00
+ac[37mc[37melY_offset [37m=[37m 861.00
+ac[37mc[37melZ_offset[37m [37m= 1170.00
+[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m[37m
+[37m
+//    [37m [37m      X Acc[37me[37ml  Y Accel[37m [37m Z Accel   [37mX[37m Gyro   Y [37mG[37myro   Z Gyr[37mo[37m
+//OFFSETS[37m [37m   -4029,  [37m [37m  891,    [37m1[37m176,    -13[37m0[37m,    -112,[37m [37m     -3
+Ena[37mb[37mling DMP..[37m.[37m
+Enabling [37mi[37mnterrupt de[37mt[37mection (Ar[37md[37muino extern[37ma[37ml interrup[37mt[37m 13)...
+DM[37mP[37m ready! Wa[37mi[37mting for f[37mi[37mrst interru[37mp[37mt...
+[37mC[37ml[37mearing i[37mn[37mput serial [37mb[37muffer
+Sen[37md[37ming the fol[37ml[37mowing comm[37ma[37mnd/query: A[37mT[37m D
+	Recei[37mv[37med char: A[37m
+[37m	Received [37mc[37mhar: T
+	Re[37mc[37meived char[37m:[37m  
+	Receiv[37me[37md char: D[37m
+[37m	Received c[37mh[37mar: \r
+	R[37me[37mceived char[37m:[37m \r
+	Rece[37mi[37mved char: O[37m[37m
+	Received[37m [37mchar: K
+	R[37me[37mceived cha[37mr[37m: \r
+	Rece[37mi[37mved char: \[37mr[37m
+	Receive[37md[37m char: >
+D[37me[37mlimiter fo[37mu[37mnd
+All cha[37mr[37ms received[37m:[37m ATDOK
+[37mC[37ml[37mearing in[37mp[37mut serial [37mb[37muffer
+Send[37mi[37mng the fol[37ml[37mowing comma[37mn[37md/query: A[37mT[37m Z
+	Receiv[37me[37md char: A[37m
+[37m	Received c[37mh[37mar: T
+	Re[37mc[37meived char:[37m [37m 
+	Receiv[37me[37md char: Z
+[37m	[37mReceived c[37mh[37mar: \r
+[37m	[37mR[37meceived ch[37ma[37mr: \r
+	Rec[37me[37mived char:[37m [37m\r
+	Recei[37mv[37med char: E[37m
+[37m	Received [37mc[37mhar: L
+	Re[37mc[37meived char[37m:[37m M
+	Receiv[37me[37md char: 3
+[37m	[37mReceived c[37mh[37mar: 2
+	Rec[37me[37mived char:[37m [37m7
+	Receive[37md[37m char:  
+[37m	[37mReceived ch[37ma[37mr: v
+	Rec[37me[37mived char: [37m1[37m
+	Receive[37md[37m char: .
+	[37mR[37meceived ch[37ma[37mr: 5
+	Rece[37mi[37mved char: [37m\[37mr
+	Receive[37md[37m char: \r[37m
+[37m	Received c[37mh[37mar: >
+Del[37mi[37mmiter found[37m[37m
+All chars[37m [37mreceived: A[37mT[37mZELM327v15[37m[37m
+[37mC[37ml[37mearing in[37mp[37mut serial [37mb[37muffer
+Send[37mi[37mng the fol[37ml[37mowing comma[37mn[37md/query: A[37mT[37m E0
+	Recei[37mv[37med char: A[37m[37m
+	Received [37mc[37mhar: T
+	R[37me[37mceived char[37m:[37m  
+	Recei[37mv[37med char: E[37m
+[37m	Received [37mc[37mhar: 0
+	Re[37mc[37meived char[37m:[37m \r
+	Recei[37mv[37med char: O[37m[37m
+	Received [37mc[37mhar: K
+	Re[37mc[37meived char[37m:[37m \r
+	Recei[37mv[37med char: \[37mr[37m
+	Received[37m [37mchar: >
+D[37me[37mlimiter fou[37mn[37md
+All cha[37mr[37ms received:[37m [37mATE0OK
+[37mC[37ml[37mearing inp[37mu[37mt serial [37mb[37muffer
+Send[37mi[37mng the fol[37ml[37mowing comma[37mn[37md/query: A[37mT[37m S0
+	Recei[37mv[37med char: O[37m[37m
+	Received [37mc[37mhar: K
+	R[37me[37mceived char[37m:[37m \r
+	Rece[37mi[37mved char: \[37mr[37m
+	Receive[37md[37m char: >
+D[37me[37mlimiter fo[37mu[37mnd
+All cha[37mr[37ms received[37m:[37m OK
+[37mC[37mlearing in[37mp[37mut serial [37mb[37muffer
+Send[37mi[37mng the fol[37ml[37mowing comma[37mn[37md/query: AT[37m [37mAL
+	Recei[37mv[37med char: O[37m
+[37m	Received [37mc[37mhar: K
+	Re[37mc[37meived char[37m:[37m \r
+	Rece[37mi[37mved char: \[37mr[37m
+	Received[37m [37mchar: >
+D[37me[37mlimiter fou[37mn[37md
+All cha[37mr[37ms received:[37m [37mOK
+[37mC[37ml[37mearing [37mi[37mnput serial[37m [37mbuffer
+Se[37mn[37mding the fo[37ml[37mlowing comm[37ma[37mnd/query: [37mA[37mT TP A0
+	R[37me[37mceived cha[37mr[37m: O
+	Recei[37mv[37med char: K[37m[37m
+	Received [37mc[37mhar: \r
+	[37mR[37meceived cha[37mr[37m: \r
+	Rec[37me[37mived char: [37m>[37m
+Delimite[37mr[37m found
+All[37m [37mchars rece[37mi[37mved: OK
+EL[37mM[37m327 Connec[37mt[37med
+[37mI[37mn[37mitializin[37mg[37m SD card..[37m.[37mc[37ma[37mrd initia[37ml[37mized.
+[37mL[37mo[37mgging to[37m:[37m LOG00000.C[37mS[37mV
+[37mF[37mree s[37mp[37mace KB: 29[37m6[37m90592
+Free[37m [37mspace in M[37mB[37m: 28994
+[37m[37m
+[37m[[37mMAIN] [37mW[37maiting for[37m [37mCat.M1 Modu[37ml[37me Ready...[37m[37m
+[37m[37m
+[37m[MAIN] BG96 [37ma[37mlready ava[37mi[37mlable
+[37m[37m
+[37m[MA[37mI[37mN] System In[37mi[37mt Complet[37me[37m
+
+[BG96] [37mE[37mcho Off: S[37mu[37mccess
+[37m[37m
+[BG[37m9[37m6] Please C[37mh[37meck your H[37m/[37mW Status
+[37m[37m
+[37m[BG96] Ec[37mh[37mo Off: Succ[37me[37mss
+[37m[37m
+[37m[BG9[37m6[37m] Please C[37mh[37meck your H/[37mW[37m Status
+[37me[37mt[37ms Jun  8 [37m2[37m016 00:22[37m:[37m57
+
+rst:0[37mx[37m1 (POWERON_[37mR[37mESET),boot:[37m0[37mx17 (SPI_F[37mA[37mST_FLASH_BO[37mO[37mT)
+configs[37mi[37mp: 0, SPIWP[37m:[37m0xee
+clk_[37md[37mrv:0x00,q_d[37mr[37mv:0x00,d_dr[37mv[37m:0x00,cs0_d[37mr[37mv:0x00,hd_[37md[37mrv:0x00,wp_[37md[37mrv:0x00
+mo[37md[37me:DIO, cloc[37mk[37m div:1
+lo[37ma[37md:0x3fff001[37m8[37m,len:4
+loa[37md[37m:0x3fff001[37mc[37m,len:1044
+[37ml[37moad:0x40078[37m0[37m00,len:1012[37m4[37m
+load:0x4[37m0[37m080400,len:[37m5[37m856
+entry [37m0[37mx400806a8
+[37mI[37mn[37mitia[37ml[37mizing I2C [37md[37mevices...
+[37mT[37me[37msting device[37m [37mconnection[37ms[37m...
+MPU605[37m0[37m connectio[37mn[37m successful[37m[37m
+Initializ[37mi[37mng DMP...
+[37m
+[37mR[37meading senso[37mr[37ms for first[37m [37mtime...
+[37m.[37m..[37m[37m
+4Seconds
+[37m
+[37mCalculatin[37mg[37m offsets...[37m[37m
+[37m
+[37mFIN[37mI[37mSHED!
+
+Se[37mn[37msor reading[37ms[37m with offs[37me[37mts:	
+[37mg[37my[37mroX_offse[37mt[37m = -130.00[37m
+[37mgyroY_offs[37me[37mt = -112.00[37m[37m
+gyroZ_off[37ms[37met = -4.00[37m
+[37maccelX_off[37ms[37met = -4020.[37m0[37m0
+accelY_[37mo[37mffset = 861[37m.[37m00
+accelZ[37m_[37moffset = 11[37m7[37m2.00
+[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m[37m
+[37m
+[37m/[37m/         [37m [37m X Accel  Y[37m [37mAccel  Z A[37mc[37mcel   X Gyr[37mo[37m   Y Gyro [37m [37m Z Gyro
+//O[37mF[37mFSETS    -[37m4[37m030,     89[37m1[37m,    1178,[37m [37m   -130,   [37m [37m-112,     [37m [37m-3
+Enabling[37m [37mDMP...
+Ena[37mb[37mling inter[37mr[37mupt detecti[37mo[37mn (Arduino[37m [37mexternal in[37mt[37merrupt 13)[37m.[37m..
+DMP rea[37md[37my! Waiting[37m [37mfor first i[37mn[37mterrupt...[37m[37m
+[37mC[37mlea[37mr[37ming input s[37me[37mrial buffe[37mr[37m
+Sending [37mt[37mhe followin[37mg[37m command/q[37mu[37mery: AT D
+[37m	[37mReceived c[37mh[37mar: \r
+	Re[37mc[37meived char:[37m [37mO
+	Receiv[37me[37md char: K
+[37m	[37mReceived c[37mh[37mar: \r
+	Re[37mc[37meived char[37m:[37m \r
+	Recei[37mv[37med char: >[37m[37m
+Delimiter [37mf[37mound
+All [37mc[37mhars receiv[37me[37md: OK
+[37mC[37mlea[37mr[37ming input s[37me[37mrial buffe[37mr[37m
+Sending t[37mh[37me followin[37mg[37m command/qu[37me[37mry: AT Z
+[37m	[37mReceived ch[37ma[37mr: A
+	Rec[37me[37mived char: [37mT[37m
+	Receive[37md[37m char:  
+	[37mR[37meceived ch[37ma[37mr: Z
+	Rece[37mi[37mved char: [37m\[37mr
+[37m	[37mR[37mecei[37mv[37med char: \r[37m
+[37m	Received[37m [37mchar: \r
+[37m	[37mReceived ch[37ma[37mr: E
+	Rec[37me[37mived char: [37mL[37m
+	Receive[37md[37m char: M
+	[37mR[37meceived ch[37ma[37mr: 3
+	Rece[37mi[37mved char: [37m2[37m
+	Received[37m [37mchar: 7
+	[37mR[37meceived cha[37mr[37m:  
+	Rece[37mi[37mved char: v[37m[37m
+	Received[37m [37mchar: 1
+	R[37me[37mceived cha[37mr[37m: .
+	Recei[37mv[37med char: 5[37m[37m
+	Received [37mc[37mhar: \r
+	[37mR[37meceived cha[37mr[37m: \r
+	Rec[37me[37mived char: [37m>[37m
+Delimite[37mr[37m found
+All[37m [37mchars rece[37mi[37mved: ATZELM[37m3[37m27v15
+[37mC[37mlea[37mr[37ming input se[37mr[37mial buffe[37mr[37m
+Sending t[37mh[37me followin[37mg[37m command/qu[37me[37mry: AT E0[37m
+[37m	Received c[37mh[37mar: A
+	Rec[37me[37mived char:[37m [37mT
+	Receive[37md[37m char:  
+[37m	[37mReceived ch[37ma[37mr: E
+	Rec[37me[37mived char: [37m0[37m
+	Receive[37md[37m char: \r
+[37m	[37mReceived c[37mh[37mar: O
+	Rec[37me[37mived char:[37m [37mK
+	Receive[37md[37m char: \r[37m
+[37m	Received c[37mh[37mar: \r
+	R[37me[37mceived char[37m:[37m >
+Delimi[37mt[37mer found
+A[37ml[37ml chars re[37mc[37meived: ATE0[37mO[37mK
+[37mC[37mlea[37mr[37ming input s[37me[37mrial buffe[37mr[37m
+Sending t[37mh[37me followin[37mg[37m command/qu[37me[37mry: AT S0[37m
+[37m	Received c[37mh[37mar: O
+	Rec[37me[37mived char:[37m [37mK
+	Receive[37md[37m char: \r[37m
+[37m	Received c[37mh[37mar: \r
+	R[37me[37mceived char[37m:[37m >
+Delimi[37mt[37mer found
+A[37ml[37ml chars re[37mc[37meived: OK
+[37mC[37mlear[37ming input s[37me[37mrial buffe[37mr[37m
+Sending t[37mh[37me followin[37mg[37m command/qu[37me[37mry: AT AL
+[37m	[37mReceived c[37mh[37mar: O
+	Rec[37me[37mived char:[37m [37mK
+	Receive[37md[37m char: \r[37m
+[37m	Received c[37mh[37mar: \r
+	R[37me[37mceived char[37m:[37m >
+Delimi[37mt[37mer found
+A[37ml[37ml chars re[37mc[37meived: OK
+[37mC[37ml[37mearing input [37ms[37merial buff[37me[37mr
+Sending [37mt[37mhe followi[37mn[37mg command/q[37mu[37mery: AT TP[37m [37mA0
+	Receiv[37me[37md char: O[37m
+[37m	Received c[37mh[37mar: K
+	Re[37mc[37meived char:[37m [37m\r
+	Recei[37mv[37med char: \r[37m[37m
+	Received[37m [37mchar: >
+De[37ml[37mimiter fou[37mn[37md
+All char[37ms[37m received:[37m [37mOK
+ELM327 [37mC[37monnected
+[37mI[37mniti[37ma[37mlizing SD [37mc[37mard...[37mc[37mard [37mi[37mnitialized[37m.[37m
+[37mL[37mo[37mgging t[37mo[37m: LOG00001.[37mC[37mSV
+[37mF[37mr[37mee space[37m [37mKB: 296905[37m6[37m0
+Free sp[37ma[37mce in MB: 2[37m8[37m994
+[37m[37m
+[37m[MAIN] Waiti[37mn[37mg for Cat.[37mM[37m1 Module Re[37ma[37mdy...
+[37m[37m
+[[37mMAIN] [37mB[37mG96 alread[37my[37m available[37m
+[37m[37m
+[37m[MAIN] Sy[37ms[37mtem Init C[37mo[37mmplete
+
+[[37mB[37mG96] Echo [37mO[37mff: Success[37m[37m
+[37m[37m
+[37m[BG96] Pl[37me[37mase Check [37my[37mour H/W Sta[37mt[37mus
+[37m[37m
+[37m[BG9[37m6[37m] Echo Off:[37m [37mSuccess
+[37m[37m
+[37m[BG96] Plea[37ms[37me Check y[37mo[37mur H/W Sta[37mt[37mus
+[37m[37m
+[BG9[37m6[37m] Echo Off:[37m [37mSuccess
+[37m[37m
+[37m[BG96] Ple[37ma[37mse Check y[37mo[37mur H/W Stat[37mu[37ms
+[37m[37m
+[37m[BG9[37m6[37m] Echo Off:[37m [37mSuccess
+[37m[37m
+[BG96] Ple[37mase Check yo[37mu[37mr H/W Stat[37mu[37ms
+[37m[37m
+[37m[BG96[37m][37m Echo Off:[37m [37mSuccess
+[37m[37m
+[37m[BG96] Plea[37ms[37me Check yo[37mu[37mr H/W Statu[37ms[37m
+[37m[37m
+[BG96][37m [37mEcho Off: [37mS[37muccess
+[37m[37m
+[37m[BG96] [37mN[37metwork Sta[37mt[37mus: 0, 3
+[37m[[37mBG96] Check[37mi[37mng APN...[37m
+[37me[37mt[37ms Jun  8 [37m2[37m016 00:22:5[37m7[37m
+
+rst:0x1[37m [37m(POWERON_RE[37mS[37mET),boot:0[37mx[37m17 (SPI_FAS[37mT[37m_FLASH_BOOT[37m)[37m
+configsip[37m:[37m 0, SPIWP:[37m0[37mxee
+clk_dr[37mv[37m:0x00,q_drv[37m:[37m0x00,d_drv:[37m0[37mx00,cs0_drv[37m:[37m0x00,hd_dr[37mv[37m:0x00,wp_dr[37mv[37m:0x00
+mode[37m:[37mDIO, clock [37md[37miv:1
+load[37m:[37m0x3fff0018,[37ml[37men:4
+load:[37m0[37mx3fff001c,l[37me[37mn:1044
+loa[37md[37m:0x40078000[37m,[37mlen:10124[37m
+[37mload:0x4008[37m0[37m400,len:585[37m6[37m
+entry 0x[37m4[37m00806a8
+[37mI[37mn[37mitiali[37mz[37ming I2C dev[37mi[37mces...
+[37mT[37mesti[37mn[37mg device c[37mo[37mnnections.[37m.[37m.
+MPU6050 [37mc[37monnection [37ms[37muccessful
+[37mI[37mnitializing[37m [37mDMP...
+[37m
+[37mR[37mead[37mi[37mng sensors [37mf[37mor first tim[37me[37m...
+[37m.[37m.[37m.
+4[37mS[37meconds
+
+Ca[37ml[37mculating o[37mf[37mfsets...
+[37m
+[37mFINIS[37mH[37mED!
+
+Senso[37mr[37m readings [37mw[37mith offsets[37m:[37m	
+[37mg[37my[37mroX_offset [37m=[37m -130.00
+g[37my[37mroY_offset[37m [37m= -110.00
+[37mg[37myroZ_offse[37mt[37m = -7.00
+a[37mc[37mcelX_offset[37m [37m= -4018.00[37m[37m
+accelY_of[37mf[37mset = 863.0[37m0[37m
+accelZ_o[37mf[37mfset = 1175[37m.[37m00
+[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m[37m
+[37m
+//[37m [37m          [37mX[37m Accel  Y A[37mc[37mcel  Z Acc[37me[37ml   X Gyro [37m [37m Y Gyro   [37mZ[37m Gyro
+//OFF[37mS[37mETS    -402[37m8[37m,     893,[37m [37m   1181,   [37m [37m-130,    -[37m1[37m10,      -5[37m
+[37mEnabling D[37mM[37mP...
+Enabl[37mi[37mng interru[37mp[37mt detection[37m [37m(Arduino e[37mx[37mternal inte[37mr[37mrupt 13)..[37m.[37m
+DMP ready[37m![37m Waiting f[37mo[37mr first int[37me[37mrrupt...
+[37mC[37mleari[37mn[37mg input ser[37mi[37mal buffer[37m
+[37mSending the[37m [37mfollowing [37mc[37mommand/quer[37my[37m: AT D
+	R[37me[37mceived char[37m:[37m A
+	Recei[37mv[37med char: T[37m
+[37m	Received [37mc[37mhar:  
+	Re[37mc[37meived char[37m:[37m D
+	Receiv[37me[37md char: \r[37m[37m
+	Received [37mc[37mhar: \r
+	[37mR[37meceived cha[37mr[37m: O
+	Rece[37mi[37mved char: K[37m[37m
+	Received[37m [37mchar: \r
+	[37mR[37meceived ch[37ma[37mr: \r
+	Rec[37me[37mived char: [37m>[37m
+Delimite[37mr[37m found
+All[37m [37mchars rece[37mi[37mved: ATDOK[37m
+[37mC[37mlearin[37mg[37m input seria[37ml[37m buffer
+[37mS[37mending the[37m [37mfollowing c[37mo[37mmmand/quer[37my[37m: AT Z
+	Re[37mc[37meived char[37m:[37m A
+	Receiv[37me[37md char: T[37m
+[37m	Received c[37mh[37mar:  
+	Re[37mc[37meived char:[37m [37mZ
+	Receiv[37me[37md char: \r[37m
+[37m	[37mR[37meceive[37md[37m char: \r[37m
+[37m	Received c[37mh[37mar: \r
+	R[37me[37mceived char[37m:[37m E
+	Recei[37mv[37med char: L[37m
+[37m	Received [37mc[37mhar: M
+	Re[37mc[37meived char[37m:[37m 3
+	Receiv[37me[37md char: 2[37m
+[37m	Received c[37mh[37mar: 7
+	Re[37mc[37meived char:[37m [37m 
+	Receiv[37me[37md char: v
+[37m	[37mReceived ch[37ma[37mr: 1
+	Rec[37me[37mived char: [37m.[37m
+	Receive[37md[37m char: 5
+[37m	[37mReceived ch[37ma[37mr: \r
+	Rec[37me[37mived char:[37m [37m\r
+	Receiv[37me[37md char: >[37m
+[37mDelimiter f[37mo[37mund
+All c[37mh[37mars receive[37md[37m: ATZELM32[37m7[37mv15
+[37mC[37ml[37meari[37mn[37mg input ser[37mi[37mal buffer[37m
+[37mSending the[37m [37mfollowing [37mc[37mommand/quer[37my[37m: AT E0
+	R[37me[37mceived cha[37mr[37m: A
+	Recei[37mv[37med char: T[37m[37m
+	Received [37mc[37mhar:  
+	R[37me[37mceived char[37m:[37m E
+	Recei[37mv[37med char: 0[37m
+[37m	Received c[37mh[37mar: \r
+	R[37me[37mceived char[37m:[37m O
+	Recei[37mv[37med char: K[37m[37m
+	Received [37mc[37mhar: \r
+	R[37me[37mceived cha[37mr[37m: \r
+	Rece[37mi[37mved char: [37m>[37m
+Delimiter[37m [37mfound
+All[37m [37mchars recei[37mv[37med: ATE0OK[37m[37m
+[37mC[37ml[37mearin[37mg[37m input seri[37ma[37ml buffer
+[37mS[37mending the[37m [37mfollowing c[37mo[37mmmand/quer[37my[37m: AT S0
+	R[37me[37mceived cha[37mr[37m: O
+	Recei[37mv[37med char: K[37m[37m
+	Received [37mc[37mhar: \r
+	[37mR[37meceived cha[37mr[37m: \r
+	Rec[37me[37mived char: [37m>[37m
+Delimite[37mr[37m found
+All[37m [37mchars rece[37mi[37mved: OK
+[37mC[37ml[37meari[37mn[37mg input seria[37ml[37m buffer
+[37mS[37mending the[37m [37mfollowing c[37mo[37mmmand/quer[37my[37m: AT AL
+	R[37me[37mceived cha[37mr[37m: O
+	Recei[37mv[37med char: K[37m[37m
+	Received [37mc[37mhar: \r
+	[37mR[37meceived cha[37mr[37m: \r
+	Rec[37me[37mived char: [37m>[37m
+Delimiter[37m [37mfound
+All[37m [37mchars recei[37mv[37med: OK
+[37mC[37mlear[37mi[37mng input se[37mr[37mial buffer[37m[37m
+Sending th[37me[37m following[37m [37mcommand/que[37mr[37my: AT TP A[37m0[37m
+	Received[37m [37mchar: O
+	R[37me[37mceived cha[37mr[37m: K
+	Recei[37mv[37med char: \[37mr[37m
+	Received[37m [37mchar: \r
+[37m	[37mReceived ch[37ma[37mr: >
+Deli[37mm[37miter found[37m
+[37mAll chars [37mr[37meceived: O[37mK[37m
+ELM327 Co[37mn[37mnected
+[37mI[37mnitial[37mi[37mzing SD ca[37mr[37md...[37mc[37ma[37mrd in[37mi[37mtialized.
+[37mL[37mo[37mggi[37mn[37mg to: LOG00[37m0[37m02.CSV
+[37mF[37mr[37mee space KB: [37m2[37m9690528
+[37mF[37mree space i[37mn[37m MB: 28994[37m[37m
+[37m[37m
+[MAIN] Waiting[37m [37mfor Cat.M1 [37mM[37module Read[37my[37m...
+[37me[37mt[37ms Jun  8 20[37m1[37m6 00:22:57[37m[37m
+
+rst:0x1 [37m([37mPOWERON_RES[37mE[37mT),boot:0x1[37m7[37m (SPI_FAST[37m_[37mFLASH_BOOT)[37m[37m
+configsip:[37m [37m0, SPIWP:0x[37me[37me
+clk_drv[37m:[37m0x00,q_drv:[37m0[37mx00,d_drv:0[37mx[37m00,cs0_drv:[37m0[37mx00,hd_drv[37m:[37m0x00,wp_drv:[37m0[37mx00
+mode:[37mD[37mIO, clock d[37mi[37mv:1
+load:0[37mx[37m3fff0018,le[37mn[37m:4
+load:0[37mx[37m3fff001c,le[37mn[37m:1044
+load[37m:[37m0x40078000,[37ml[37men:10124
+[37ml[37moad:0x40080[37m4[37m00,len:5856[37m[37m
+entry 0x40[37m0[37m806a8
+[37mI[37mn[37mitializin[37mg[37m I2C devi[37mc[37mes...
+[37mT[37mestin[37mg[37m device co[37mn[37mnections...[37m[37m
+MPU6050 c[37mo[37mnnection su[37mc[37mcessful
+I[37mn[37mitializing [37mD[37mMP...
+[37m
+[37mReadi[37mn[37mg sensors f[37mo[37mr first ti[37mm[37me...
+[37m.[37m.[37m.
+4S[37me[37mconds
+
+Ca[37ml[37mculating off[37ms[37mets...
+[37m
+[37mFINISH[37mE[37mD!
+
+Sensor[37m [37mreadings w[37mi[37mth offsets:[37m	[37m
+[37mg[37myr[37mo[37mX_offset =[37m [37m-128.00
+gy[37mr[37moY_offset [37m=[37m -111.00
+g[37my[37mroZ_offset [37m=[37m -178.00
+[37ma[37mccelX_offse[37mt[37m = -4023.0[37m0[37m
+accelY_of[37mf[37mset = 861.[37m0[37m0
+accelZ_o[37mf[37mfset = 117[37m6[37m.00
+[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m[37m
+[37m
+// [37m [37m         X [37mA[37mccel  Y Ac[37mc[37mel  Z Accel[37m [37m  X Gyro  [37m [37mY Gyro   Z [37mG[37myro
+//OFFS[37mE[37mTS    -4027[37m,[37m     895, [37m [37m  1182,    [37m-[37m130,    -11[37m1[37m,      -8
+[37mE[37mnabling DMP[37m.[37m..
+Enabli[37mn[37mg interrupt[37m [37mdetection [37m([37mArduino ext[37me[37mrnal inter[37mr[37mupt 13)...[37m
+[37mDMP ready![37m [37mWaiting for[37m [37mfirst inte[37mr[37mrupt...
+[37mC[37ml[37mearing[37m [37minput seri[37ma[37ml buffer
+Se[37mn[37mding the [37mf[37mollowing c[37mo[37mmmand/query[37m:[37m AT D
+	Rec[37me[37mived char:[37m [37mA
+	Receive[37md[37m char: T
+[37m	[37mReceived ch[37ma[37mr:  
+	Rec[37me[37mived char: [37mD[37m
+	Receive[37md[37m char: \r
+[37m	[37mReceived c[37mh[37mar: \r
+	Re[37mc[37meived char[37m:[37m O
+	Receiv[37me[37md char: K[37m
+[37m	Received c[37mh[37mar: \r
+	Re[37mc[37meived char[37m:[37m \r
+	Recei[37mv[37med char: >[37m[37m
+Delimiter [37mf[37mound
+All [37mc[37mhars receiv[37me[37md: ATDOK
+[37mC[37ml[37mearing[37m [37minput seria[37ml[37m buffer
+Se[37mn[37mding the f[37mo[37mllowing co[37mm[37mmand/query:[37m [37mAT Z
+	Rec[37me[37mived char: [37mA[37m
+	Receive[37md[37m char: T
+	[37mR[37meceived ch[37ma[37mr:  
+	Rece[37mi[37mved char: [37mZ[37m
+	Received[37m [37mchar: \r
+[37m	[37mR[37meceived [37mc[37mhar: \r
+	[37mR[37meceived cha[37mr[37m: \r
+	Rec[37me[37mived char: [37mE[37m
+	Receive[37md[37m char: L
+	[37mR[37meceived ch[37ma[37mr: M
+	Rece[37mi[37mved char: [37m3[37m
+	Received[37m [37mchar: 2
+	[37mR[37meceived cha[37mr[37m: 7
+	Rece[37mi[37mved char:  [37m[37m
+	Received[37m [37mchar: v
+	R[37me[37mceived cha[37mr[37m: 1
+	Recei[37mv[37med char: .[37m[37m
+	Received [37mc[37mhar: 5
+	R[37me[37mceived char[37m:[37m \r
+	Rece[37mi[37mved char: \[37mr[37m
+	Receive[37md[37m char: >
+D[37me[37mlimiter fou[37mn[37md
+All cha[37mr[37ms received:[37m [37mATZELM327v[37m1[37m5
+[37mC[37ml[37mearing[37m [37minput seria[37ml[37m buffer
+S[37me[37mnding the [37mf[37mollowing co[37mm[37mmand/query:[37m [37mAT E0
+	Re[37mc[37meived char:[37m [37mA
+	Receiv[37me[37md char: T
+[37m	[37mReceived c[37mh[37mar:  
+	Rec[37me[37mived char:[37m [37mE
+	Receive[37md[37m char: 0
+[37m	[37mReceived ch[37ma[37mr: \r
+	Rec[37me[37mived char:[37m [37mO
+	Receive[37md[37m char: K
+[37m	[37mReceived ch[37ma[37mr: \r
+	Re[37mc[37meived char:[37m [37m\r
+	Recei[37mv[37med char: >[37m
+[37mDelimiter [37mf[37mound
+All c[37mh[37mars receiv[37me[37md: ATE0OK
+[37mC[37mlearing[37m [37minput seri[37ma[37ml buffer
+S[37me[37mnding the f[37mo[37mllowing co[37mm[37mmand/query:[37m [37mAT S0
+	Re[37mc[37meived char:[37m [37mO
+	Receiv[37me[37md char: K
+[37m	[37mReceived c[37mh[37mar: \r
+	Re[37mc[37meived char[37m:[37m \r
+	Recei[37mv[37med char: >[37m[37m
+Delimiter [37mf[37mound
+All [37mc[37mhars receiv[37me[37md: OK
+[37mC[37mlearing[37m [37minput seri[37ma[37ml buffer
+S[37me[37mnding the [37mf[37mollowing co[37mm[37mmand/query[37m:[37m AT AL
+	Re[37mc[37meived char:[37m [37mO
+	Receiv[37me[37md char: K
+[37m	[37mReceived c[37mh[37mar: \r
+	Re[37mc[37meived char[37m:[37m \r
+	Recei[37mv[37med char: >[37m[37m
+Delimiter [37mf[37mound
+All [37mc[37mhars receiv[37me[37md: OK
+[37mC[37ml[37mearin[37mg[37m input ser[37mi[37mal buffer
+[37mS[37mending the[37m [37mfollowing c[37mo[37mmmand/quer[37my[37m: AT TP A0[37m
+[37m	Received [37mc[37mhar: O
+	Re[37mc[37meived char:[37m [37mK
+	Receiv[37me[37md char: \r[37m
+[37m	Received [37mc[37mhar: \r
+	R[37me[37mceived cha[37mr[37m: >
+Delimi[37mt[37mer found
+[37mA[37mll chars re[37mc[37meived: OK[37m
+[37mELM327 Conn[37me[37mcted
+[37mI[37mn[37mitiali[37mz[37ming SD card[37m.[37m..[37mc[37mard ini[37mt[37mialized.
+[37mL[37moggi[37mn[37mg to: LOG0[37m0[37m003.CSV
+[37mF[37mr[37mee spa[37mc[37me KB: 2969[37m0[37m496
+Free s[37mp[37mace in MB:[37m [37m28994
+[37m[37m
+[37m[[37mMAIN[37m][37m Waiting f[37mo[37mr Cat.M1 M[37mo[37mdule Ready.[37m.[37m.
+[37m[37m
+[37m[MA[37mI[37mN] BG96 al[37mr[37meady availa[37mb[37mle
+[37m[37m
+[37m[MAIN] Sy[37ms[37mtem Init [37mC[37momplete
+
+[37m[[37mBG96] Echo[37m [37mOff: Succes[37ms[37m
+[37m[37m
+[37m[BG96] P[37ml[37mease Check [37my[37mour H/W St[37ma[37mtus
+[37m[37m
+[B[37mG[37m96] Echo Off[37m:[37m Success
+[37m[37m
+[37m[BG96] Pl[37me[37mase Check [37my[37mour H/W Sta[37mt[37mus
+[37m[37m
+[BG[37m9[37m6] Echo Of[37mf[37m: Success
+[37m[37m
+[37m[BG96] Pl[37me[37mase Check [37my[37mour H/W Sta[37mt[37mus
+[37m[37m
+[BG[37m9[37m6] Echo Off[37m:[37m Success
+[37m[37m
+[37m[BG96] Pl[37me[37mase Check y[37mo[37mur H/W Sta[37mt[37mus
+[37m[37m
+[BG[37m9[37m6] Echo Off[37m:[37m Success
+[37m[37m
+[37m[BG96] Ple[37ma[37mse Check y[37mo[37mur H/W Stat[37mu[37ms
+[37m[37m
+[BG9[37m6[37m] Echo Off:[37m [37mSuccess
+[37m[37m
+[37m[BG96[37m][37m Network S[37mt[37matus: 0, 2
+[37m[[37mBG96] Che[37mc[37mking APN...[37m[37m
+[37me[37mt[37ms Jun  8 201[37m6[37m 00:22:57[37m
+[37m
+rst:0x1 ([37mP[37mOWERON_RESE[37mT[37m),boot:0x17[37m [37m(SPI_FAST_F[37mL[37mASH_BOOT)
+[37mc[37monfigsip: [37m0[37m, SPIWP:0xe[37me[37m
+clk_drv:0[37mx[37m00,q_drv:0x[37m0[37m0,d_drv:0x[37m0[37m0,cs0_drv:0[37mx[37m00,hd_drv:0[37mx[37m00,wp_drv:0[37mx[37m00
+mode:DI[37mO[37m, clock di[37mv[37m:1
+load:0x[37m3[37mfff0018,len[37m:[37m4
+load:0x3[37mf[37mff001c,len[37m:[37m1044
+load:[37m0[37mx40078000,l[37me[37mn:10124
+lo[37ma[37md:0x4008040[37m0[37m,len:5856
+[37me[37mntry 0x400[37m8[37m06a8
+[37mI[37mn[37mitializin[37mg[37m I2C devic[37me[37ms...
+[37mT[37me[37msting [37md[37mevice conn[37me[37mctions...[37m
+[37mMPU6050 con[37mn[37mection suc[37mc[37messful
+Ini[37mt[37mializing D[37mM[37mP...
+[37m
+[37mReading[37m [37msensors fo[37mr[37m first time[37m.[37m..
+[37m.[37m.[37m.
+4Se[37mc[37monds
+
+Calc[37mu[37mlating off[37ms[37mets...
+[37m
+[37mF[37mINISHED[37m![37m
+
+Sensor [37mr[37meadings wit[37mh[37m offsets:	[37m[37m
+[37mg[37myro[37mX[37m_offset = -[37m1[37m34.00
+gyr[37mo[37mY_offset = [37m-[37m111.00
+gy[37mr[37moZ_offset =[37m [37m16.00
+acce[37ml[37mX_offset =[37m [37m-4017.00
+a[37mc[37mcelY_offse[37mt[37m = 867.00
+[37ma[37mccelZ_offs[37me[37mt = 1176.00[37m[37m
+[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m[37m
+[37m
+//   [37m [37m       X A[37mc[37mcel  Y Acce[37ml[37m  Z Accel [37m [37m X Gyro   Y[37m [37mGyro   Z G[37my[37mro
+//OFFSET[37mS[37m    -4027,[37m [37m    897,   [37m [37m1182,    -[37m1[37m32,    -111[37m,[37m       1
+En[37ma[37mbling DMP.[37m.[37m.
+Enabling[37m [37minterrupt [37md[37metection (A[37mr[37mduino exte[37mr[37mnal interru[37mp[37mt 13)...
+[37mD[37mMP ready! W[37ma[37miting for [37mf[37mirst interr[37mu[37mpt...
+[37mC[37ml[37mearing [37mi[37mnput seria[37ml[37m buffer
+Se[37mn[37mding the f[37mo[37mllowing com[37mm[37mand/query:[37m [37mAT D
+	Rece[37mi[37mved char: \[37mr[37m
+	Receive[37md[37m char: O
+	[37mR[37meceived ch[37ma[37mr: K
+	Rece[37mi[37mved char: [37m\[37mr
+	Receive[37md[37m char: \r[37m
+[37m	Received [37mc[37mhar: >
+Del[37mi[37mmiter foun[37md[37m
+All chars[37m [37mreceived: O[37mK[37m
+[37mC[37ml[37mearing [37mi[37mnput serial[37m [37mbuffer
+Se[37mn[37mding the fo[37ml[37mlowing com[37mm[37mand/query: [37mA[37mT Z
+	Rece[37mi[37mved char: A[37m[37m
+	Received[37m [37mchar: T
+	R[37me[37mceived cha[37mr[37m:  
+	Recei[37mv[37med char: Z[37m
+[37m	Received [37mc[37mhar: \r
+[37m	[37mR[37meceived c[37mh[37mar: \r
+	R[37me[37mceived char[37m:[37m \r
+	Rece[37mi[37mved char: E[37m[37m
+	Received[37m [37mchar: L
+	R[37me[37mceived cha[37mr[37m: M
+	Recei[37mv[37med char: 3[37m[37m
+	Received [37mc[37mhar: 2
+	R[37me[37mceived char[37m:[37m 7
+	Recei[37mv[37med char:  [37m
+[37m	Received [37mc[37mhar: v
+	Re[37mc[37meived char[37m:[37m 1
+	Receiv[37me[37md char: .[37m
+[37m	Received c[37mh[37mar: 5
+	Re[37mc[37meived char:[37m [37m\r
+	Receiv[37me[37md char: \r[37m[37m
+	Received [37mc[37mhar: >
+De[37ml[37mimiter foun[37md[37m
+All char[37ms[37m received: [37mA[37mTZELM327v1[37m5[37m
+[37mC[37mlearing [37mi[37mnput serial[37m [37mbuffer
+Se[37mn[37mding the fo[37ml[37mlowing comm[37ma[37mnd/query: [37mA[37mT E0
+	Rece[37mi[37mved char: [37mA[37m
+	Received[37m [37mchar: T
+	[37mR[37meceived cha[37mr[37m:  
+	Rece[37mi[37mved char: [37mE[37m
+	Received[37m [37mchar: 0
+	[37mR[37meceived cha[37mr[37m: \r
+	Rece[37mi[37mved char: [37mO[37m
+	Received[37m [37mchar: K
+	[37mR[37meceived cha[37mr[37m: \r
+	Rec[37me[37mived char: [37m\[37mr
+	Receiv[37me[37md char: >
+[37mD[37melimiter f[37mo[37mund
+All ch[37ma[37mrs received[37m:[37m ATE0OK
+[37mC[37ml[37mearing [37mi[37mnput serial[37m [37mbuffer
+Se[37mn[37mding the fo[37ml[37mlowing comm[37ma[37mnd/query: [37mA[37mT S0
+	Rece[37mi[37mved char: [37mO[37m
+	Received[37m [37mchar: K
+	[37mR[37meceived cha[37mr[37m: \r
+	Rec[37me[37mived char: [37m\[37mr
+	Receiv[37me[37md char: >
+[37mD[37melimiter f[37mo[37mund
+All c[37mh[37mars receive[37md[37m: OK
+[37mC[37ml[37mearing [37mi[37mnput serial[37m [37mbuffer
+Sen[37md[37ming the fo[37ml[37mlowing comm[37ma[37mnd/query: [37mA[37mT AL
+	Rece[37mi[37mved char: [37mO[37m
+	Received[37m [37mchar: K
+	[37mR[37meceived cha[37mr[37m: \r
+	Rec[37me[37mived char: [37m\[37mr
+	Receiv[37me[37md char: >[37m
+[37mDelimiter f[37mo[37mund
+All c[37mh[37mars receive[37md[37m: OK
+[37mC[37ml[37mearing[37m [37minput serial[37m [37mbuffer
+S[37me[37mnding the f[37mo[37mllowing co[37mm[37mmand/query:[37m [37mAT TP A0
+[37m	[37mReceived ch[37ma[37mr: O
+	Rec[37me[37mived char:[37m [37mK
+	Receive[37md[37m char: \r
+[37m	[37mReceived c[37mh[37mar: \r
+	Re[37mc[37meived char[37m:[37m >
+Delimit[37me[37mr found
+A[37ml[37ml chars rec[37me[37mived: OK
+[37mE[37mLM327 Conne[37mc[37mted
+[37mI[37mn[37mitializi[37mn[37mg SD card.[37m.[37m.[37mc[37ma[37mrd initi[37ma[37mlized.
+[37mL[37moggin[37mg[37m to: LOG000[37m0[37m4.CSV
+[37mF[37mr[37mee space[37m [37mKB: 296904[37m6[37m4
+Free spa[37mc[37me in MB: 2[37m8[37m994
+[37m[37m
+[37m[MAIN][37m [37mWaiting fo[37mr[37m Cat.M1 Mod[37mu[37mle Ready..[37m.[37m

@@ -1,0 +1,179 @@
+[37mI[37mnitia[37mlizing I2C [37mdevices...
+[37mT[37me[37msting devic[37me connections[37m...
+MPU6050[37m connection[37m successful[37m
+Initializi[37mng DMP...
+[37m
+[37mR[37meading senso[37mrs for first [37mtime...
+[37m.[37m..
+3Seconds[37m
+
+Calculatin[37mg offsets...[37m
+[37m
+[37mFI[37mNISHED!
+
+Se[37mnsor readings with offse[37mts:	
+[37mg[37myroX[37m_offset = -145.00
+gyro[37mY_offset = -[37m108.00
+gyro[37mZ_offset = [37m-5.00
+accel[37mX_offset = [37m-3997.00
+ac[37mcelY_offset[37m = 840.00
+a[37mccelZ_offse[37mt = 1168.00
+[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m[37m
+
+// [37m          X [37mAccel  Y Ac[37mcel  Z Accel[37m   X Gyro [37m  Y Gyro   Z Gyro
+//OFFS[37mETS    -4009,[37m     870,  [37m  1176,   [37m -144,    -1[37m07,      -5[37m
+Enabling DM[37mP...
+Enabl[37ming interrup[37mt detection[37m (Arduino ex[37mternal inte[37mrrupt 13)...[37m
+DMP ready! Waiting fo[37mr first int[37merrupt...
+[37mE[37mL[37mM327 Conn[37mected
+[37mI[37mnit[37mializing SD[37m card...[37mc[37mard[37m initialized[37m.
+[37mL[37mogging to:[37m LOG01573.CS[37mV
+[37mF[37mree s[37mpace KB: 296[37m16864
+Free [37mspace in MB:[37m 28922
+[37m[37m
+[MAIN][37m Waiting for[37m Cat.M1 Mod[37mule Ready...[37m
+[37m[37m
+[M[37mAIN] BG96 a[37mlready avail[37mable
+[37m[37m
+[37m[MAIN] Syst[37mem Init Complete
+
+[B[37mG96] Echo Of[37mf: Success
+[37m
+[BG96][37m USIM Status:[37m READY
+[37m
+[B[37mG96] Networ[37mk Status: 0,[37m 3
+[BG96] P[37mlease Check[37m your H/W St[37matus
+[37m[37m
+[BG[37m96] Echo Off[37m: Success
+[37m
+[37m[BG96] USIM [37mStatus: REA[37mDY
+[37m
+[BG96] Netw[37mork Status: 0, 3
+[BG96[37m] Please C[37mheck your H/[37mW Status
+[37m[37m
+[BG96[37m] Echo Off: [37mSuccess
+[37m
+[BG[37m96] USIM Sta[37mtus: READY
+
+[[37mBG96] Netwo[37mrk Status: 0[37m, 3
+[BG96] [37mPlease Chec[37mk your H/W St[37matus
+[37m[37m
+[BG96][37m Echo Off:[37m Success
+[37m
+[B[37mG96] USIM S[37mtatus: READY[37m
+[37m
+[BG96] Net[37mwork Status[37m: 0, 3
+[BG96] Please Ch[37meck your H/[37mW Status
+[37m[37m
+[BG9[37m6] Echo Off:[37m Success
+[37m
+[B[37mG96] USIM St[37matus: READY[37m
+
+[37m[BG96] Network Status: [37m0, 3
+[BG96][37m Please Che[37mck your H/W [37mStatus
+[37m[37m
+[BG96][37m Echo Off: S[37muccess
+[37m
+[B[37mG96] USIM St[37matus: READY[37m
+
+[[37mBG96] Networ[37mk Status: [37m0, 3
+[BG96][37m Checking APN...
+[37m[37m
+[37m[BG96] APN Check Done
+[37m
+[MAIN] [FILE[37m] Save and [37mcheck AWS c[37mertificates[37m
+[37m[37m
+[37m[MAIN] [FILE] Erase BG9[37m6 storage com[37mplete
+[37m[37m
+[[37mBG96] File s[37maved: Amazo[37mnRootCA1.pem[37m, 1188, 2d1[37m3
+[37m[37m
+[B[37mG96] File sa[37mved: certif[37micate.pem.crt[37m, 1224, 7a[37m0f
+[37m[37m
+[BG96] Fil[37me saved: p[37mrivate.pem.[37mkey, 1679, 7[37ma50
+[37m[37m
+[37m[MAIN] [SSL/TLS] Set BG[37m96 SSL/TLS [37mc[37monfiguratio[37mn
+[37m[37m
+[M[37mAIN] [MQTT] [37mConnect to [37mAWS IoT "a3q[37m2g5zrbgdsc1[37m-ats.iot.us-[37meast-1.amaz[37monaws.com:88[37m83"
+
+[BG96][37m GPS Power[37m: On
+
+[MA[37mIN] GPS On
+0.01
+0.18
+[37m0.00
+-0.01[37m
+GYRO data [37mupdated
+Distinguishing[37m Powertrain[37m
+[37mL[37moggin[37mg to: LOG015[37m74.CSV<<---[37m------------[37m-----------[37m-Created New[37m File...
+[37mE[37mRROR[37m: ELM_TIMEOU[37mT
+ELM_ERRO[37mR LOGGED
+[37m[37m
+[BG9[37m6] AT+QMTOPE[37mN result[3]:[37m Failed to [37mactivate PDP[37m[37m
+[BG96] AT[37m+QMTOPEN resu[37mlt[3]: Fai[37mled to acti[37mvate PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN res[37mult[3]: Fai[37mled to acti[37mvate PDP[37m[37m
+[BG96] AT[37m+QMTOPEN res[37mult[3]: Fail[37med to activa[37mte PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN re[37msult[3]: Fai[37mled to activa[37mte PDP[37m[37m
+[37m[BG96] AT+QMTOPEN res[37mult[3]: Fai[37mled to activ[37mate PDP[37m[37m
+[BG96] AT[37m+QMTOPEN res[37mult[3]: Fail[37med to activ[37mate PDP[37m[37m
+[37m[BG96] AT[37m+QMTOPEN result[3]: Fai[37mled to activa[37mte PDP[37m[37m
+[37m[BG96] AT+QMTOPEN resu[37mlt[3]: Fail[37med to activ[37mate PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN result[3]: Fail[37med to activat[37me PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN result[3]: Fail[37med to activ[37mate PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN result[3]: Fail[37med to activ[37mate PDP[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN resul[37mt[3]: Fail[37med to activate PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN result[3]: Fail[37med to activa[37mte PDP[37m[37m
+[37m[BG96] AT+QMTOPEN resu[37mlt[3]: Faile[37md to activa[37mte PDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN resul[37mt[3]: Failed[37m to activat[37me PDP
+[MAI[37mN] [MQTT] So[37mcket open fa[37miled
+[37m0.03
+0.20[37m
+-0.01
+-0.00
+GYRO da[37mta updated[37m
+[37mE[37mRROR[37m: ELM_TIMEOU[37mT
+ELM_ERROR[37m LOGGED
+[37m0[37m.[37m02
+0.[37m19
+0.00
+-0.01
+GYRO da[37mta updated[37m
+[37mE[37mRROR:[37m ELM_TIMEOUT[37m
+ELM_ERROR [37mLOGGED
+[37m[37m
+[BG96] [37mAT+QMTOPEN [37mresult[3]: F[37mailed to ac[37mtivate PDP[37m[37m
+[B[37mG96] AT+QMTO[37mPEN result[3][37m: Failed t[37mo activate [37mPDP[37m[37m
+[B[37mG96] AT+QMTO[37mPEN result[[37m3]: Failed t[37mo activate [37mPDP[37m[37m
+[B[37mG96] AT+QMTO[37mPEN result[[37m3]: Failed t[37mo activate [37mPDP[37m[37m
+[B[37mG96] AT+QMTOPEN result[[37m3[37m]: Failed to activate [37mPDP[37m[37m
+[BG[37m96] AT+QMTO[37mPEN result[3]: Failed t[37mo[37m activate [37mPDP[37m[37m
+[B[37mG96] AT+QMTO[37mPEN result[3[37m]: Failed t[37mo activate P[37mDP[37m[37m
+[BG[37m96] AT+QMTO[37mPEN result[3[37m]: Failed to activate P[37mDP[37m[37m
+[BG[37m96] AT+QMTO[37mPEN result[3[37m]: Failed to[37m activate PDP[37m[37m
+[BG[37m96] AT+QMTO[37mPEN result[3[37m]: Failed t[37mo activate P[37mDP[37m[37m
+[BG[37m96] AT+QMTOP[37mEN result[3[37m]: Failed to[37m activate P[37mDP[37m[37m
+[BG[37m96] AT+QMTOP[37mEN result[3][37m: Failed to[37m activate P[37mDP[37m[37m
+[BG[37m96] AT+QMTOP[37mEN result[3[37m]: Failed to[37m activate P[37mDP[37m[37m
+[BG[37m96] AT+QMTOP[37mEN result[3][37m: Failed to a[37mctivate PDP[37m[37m
+[BG[37m96] AT+QMTOP[37mEN result[3[37m]: Failed to [37mactivate PD[37mP[37m[37m
+[BG9[37m6] AT+QMTOP[37mEN result[3][37m: Failed to a[37mctivate PD[37mP[37m
+[MAIN] [[37mMQTT] Socket [37mopen faile[37md
+[37m0[37m.01
+0.08[37m
+0.00
+0.00[37m
+GYRO data updated
+[37mE[37mRROR: ELM_[37mTIMEOUT
+E[37mLM_ERROR LOG[37mGED
+[37m0[37m.05
+0.19
+[37m-0.00
+-0.[37m01
+GYRO dat[37ma updated
+[37mE[37mR[37mROR: ELM_TI[37mMEOUT
+ELM_[37mERROR LOGGED[37m
+[37m[37m
+[B[37mG96] AT+QMTO[37mPEN result[37m[3]: Failed [37mto activate [37mPDP[37m[37m
+[BG96] [37mAT+QMTOPEN [37mresult[3]: [37mFailed to ac[37mtivate PDP[37m[37m
+[BG96] [37mAT+QMTOPEN r[37mesult[3]: F[37mailed to ac[37mtivate PDP[37m[37m
+[BG96] A[37mT+QMTOPEN [37mresult[3]: F[37mailed to acti[37mvate PDP[37m[37m
+[BG96] A[37mT+QMTOPEN [37mresult[3]: F[37mailed to ac[37mtivate PDP

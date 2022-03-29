@@ -1,0 +1,1071 @@
+[37mI[37mnitia[37mlizing I2C d[37mevices...
+[37mT[37me[37msting device connections[37m...
+MPU605[37m0 connection[37m successful[37m
+Initializi[37mng DMP...
+[37m
+[37mRe[37mading sensor[37ms for first[37m time...
+[37m.[37m..[37m
+3Seconds
+[37m
+Calculating[37m offsets...[37m
+[37m
+[37mFIN[37mISHED!
+
+Sens[37mor readings with offse[37mts:	
+[37mg[37myroX_o[37mffset = -14[37m0.00
+gyroY[37m_offset = -10[37m9.00
+gyroZ[37m_offset = -4[37m.00
+accelX[37m_offset = -4[37m001.00
+acc[37melY_offset = 830.00
+ac[37mcelZ_offset[37m = 1170.00
+[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m[37m
+
+// [37m          X [37mAccel  Y Acce[37ml  Z Accel [37m  X Gyro  [37m Y Gyro   Z G[37myro
+//OFFSE[37mTS    -4011, [37m    858, [37m   1170,    [37m-140,    -1[37m08,      -4
+[37mEnabling DM[37mP...
+Enabli[37mng interrup[37mt detection [37m(Arduino ex[37mternal inter[37mrupt 13)...[37m
+DMP ready![37m Waiting for[37m first inter[37mrupt...
+[37mE[37mLM327 Conne[37mcted
+[37mI[37mniti[37malizing SD card...[37mc[37mard [37minitialized.[37m
+[37mL[37mogg[37ming to: LOG[37m01577.CSV
+[37mF[37mree sp[37mace KB: 29616736
+Free space in MB: 28922
+[37m[37m
+[MAIN] Wa[37miting for[37m Cat.M1 Modu[37mle Ready...[37m
+[37m[37m
+[37m[MAIN] BG9[37m6 already av[37mailable
+[37m[37m
+[37m[MAIN] System Init Comp[37mlete
+
+[BG[37m96] Echo Off: Success
+[37m
+[BG96] [37mUSIM Status[37m: READY
+[37m
+[BG96[37m] Network Status: 0, [37m3
+[BG96] Pl[37mease Check [37myour H/W Sta[37mtus
+[37m[37m
+[BG96[37m] Echo Off:[37m Success
+[37m
+[B[37mG96] USIM Status: READY
+[37m
+[37m[BG96] Netw[37mork Status:[37m 0, 3
+[BG96[37m] Please Che[37mck your H/W[37m Status
+[37m[37m
+[BG96][37m Echo Off: [37mSuccess
+[37m
+[B[37mG96] USIM St[37matus: READY[37m
+
+[37m[BG96] Netwo[37mrk Status: 0, 3
+[BG96[37m] Please Che[37mck your H/W[37m Status
+[37m[37m
+[BG96[37m] Echo Off: [37mSuccess
+[37m
+[BG[37m96] USIM Stat[37mus: READY
+[37m[37m
+[BG96] Network Status:[37m 0, 3
+[BG9[37m6] Please Ch[37meck your H/W[37m Status
+[37m[37m
+[BG96][37m Echo Off: [37mSuccess
+[37m
+[BG9[37m6] USIM Stat[37mus: READY
+[37m
+[BG96] Networ[37mk Status: 0[37m, 3
+[BG96] [37mPlease Check[37m your H/W St[37matus
+[37m[37m
+[BG96][37m Echo Off: S[37muccess
+[37m
+[BG9[37m6] USIM Statu[37ms: READY
+[37m
+[BG[37m96] Network[37m Status: 0, 3
+[BG96] [37mChecking APN[37m.[37m..
+[37m[37m
+[BG9[37m6] APN Check Done
+
+[M[37mAIN] [FILE] Save and ch[37meck AWS cer[37mtificates
+[37m[37m
+[37m[MAIN] [FILE] Erase BG96 [37mstorage co[37mmplete
+[37m[37m
+[B[37mG96] File sav[37med: AmazonRo[37motCA1.pem, [37m1188, 2d13
+[37m[37m
+[37m[BG96] File saved: [37mcertificate.pem.crt, 1[37m224, 7a0f
+[37m[37m
+[37m[BG96] File [37msaved: priv[37mate.pem.key, [37m1679, 7a50[37m
+[37m[37m
+[[37mMAIN] [SSL/T[37mLS] Set BG96[37m SSL/TLS c[37monfiguration[37m
+[37m[37m
+[37m[MAIN] [MQTT[37m] Connect to AWS IoT "a[37m3q2g5zrbgds[37mc1-ats.iot.us[37m-east-1.amaz[37monaws.com:8[37m883"
+
+[BG[37m96] GPS Pow[37mer: On
+
+[[37mMAIN] GPS On[37m
+[37m0[37m.01
+-0.06[37m
+-0.01
+-0[37m.00
+GYRO da[37mta updated
+Distinguish[37ming Powertr[37main
+[37mL[37mogging to: [37mLOG01578.CSV[37m<<--------[37m-----------[37m--------Crea[37mted New Fil[37me...
+[37mE[37mRRO[37mR: ELM_TIMEO[37mUT
+ELM_ERR[37mOR LOGGED
+[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN result[3]: Faile[37md to activa[37mte PDP[37m[37m
+[37m[BG96] AT[37m+QMTOPEN res[37mult[3]: Fai[37mled to activ[37mate PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN resu[37mlt[3]: Fail[37med to activ[37mate PDP[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN res[37mult[3]: Fail[37med to activ[37mate PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN res[37mult[3]: Fail[37med to activ[37mate PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN resu[37mlt[3]: Faile[37md to activa[37mte PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN resu[37mlt[3]: Faile[37md to activat[37me PDP[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN resu[37mlt[3]: Fail[37med to activa[37mte PDP[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN result[3]: Faile[37md to activat[37me PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN resu[37mlt[3]: Fail[37med to activa[37mte PDP[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN resu[37mlt[3]: Faile[37md to activa[37mte PDP[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN resu[37mlt[3]: Faile[37md to activa[37mte PDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN result[37m[3]: Faile[37md to activat[37me PDP[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN resu[37mlt[3]: Faile[37md to activat[37me PDP[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN resul[37mt[3]: Faile[37md to activat[37me PDP[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN resul[37mt[3]: Faile[37md to activat[37me PDP
+[MAI[37mN] [MQTT] Socket open f[37mailed
+[37m0[37m.10
+-0.09[37m
+0.01
+-0[37m.00
+GYRO da[37mta updated
+[37mL[37mog[37mging to: LOG[37m01579.CSV<<[37m------------[37m-----------[37m----Created [37mNew File...[37m
+[37mE[37mRROR: EL[37mM_STOPPED
+[37mELM_ERROR L[37mOGGED
+[37m[37m
+[BG96[37m] AT+QMTOPE[37mN result[3]:[37m Failed to a[37mctivate PDP[37m[37m
+[BG96] A[37mT+QMTOPEN r[37mesult[3]: Fai[37mled to act[37mivate PDP[37m[37m
+[BG96] A[37mT+QMTOPEN re[37msult[3]: Fa[37miled to act[37mivate PDP[37m[37m
+[BG96] A[37mT+QMTOPEN r[37mesult[3]: Fa[37miled to act[37mivate PDP[37m[37m
+[BG96] A[37mT+QMTOPEN r[37mesult[3]: Fai[37mled to act[37mivate PDP[37m[37m
+[BG96] A[37mT+QMTOPEN re[37msult[3]: Fai[37mled to act[37mivate PDP[37m[37m
+[BG96] A[37mT+QMTOPEN res[37mult[3]: Fa[37miled to acti[37mvate PDP[37m[37m
+[BG96] A[37mT+QMTOPEN resu[37mlt[3]: Fa[37miled to acti[37mvate PDP[37m[37m
+[BG96] A[37mT+QMTOPEN res[37mult[3]: Fa[37miled to acti[37mvate PDP[37m[37m
+[BG96] AT[37m+[37mQMTOPEN result[3]: Fai[37mled to activ[37mate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN resu[37mlt[3]: Faile[37md to acti[37mvate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN res[37mult[3]: Fai[37mled to acti[37mvate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN res[37mult[3]: Fail[37med to activa[37mte PDP[37m[37m
+[37m[BG96] AT[37m+QMTOPEN result[3]: Fai[37mled to activ[37mate PDP[37m[37m
+[BG96] AT[37m+QMTOPEN resu[37mlt[3]: Fai[37mled to activ[37mate PDP[37m[37m
+[37m[BG96] AT[37m+QMTOPEN result[3]: Fai[37mled to activ[37mate PDP
+[MA[37mIN] [MQTT] S[37mocket open f[37mailed
+[37m0.0[37m1
+-0.06
+-[37m0.01
+-0.00[37m
+GYRO data [37mupdated
+[37me[37mts Jun[37m  8 2016 00:[37m22:57
+
+rs[37mt:0x1 (POWER[37mON_RESET),bo[37mot:0x17 (SPI[37m_FAST_FLASH_[37mBOOT)
+confi[37mgsip: 0, SP[37mIWP:0xee
+cl[37mk_drv:0x00,q[37m_drv:0x00,d[37m_drv:0x00,cs0_drv:0x00,h[37md_drv:0x00,wp[37m_drv:0x00
+m[37mode:DIO, c[37mlock div:1
+lo[37mad:0x3fff0[37m018,len:4
+lo[37mad:0x3fff0[37m01c,len:1044
+[37mload:0x4007[37m8000,len:10[37m124
+load:0x[37m40080400,len:5856
+entry[37m 0x400806a8[37m
+[37mI[37mnit[37mializing I2C[37m devices...[37m
+[37mT[37me[37msting device connectio[37mns...
+MPU60[37m50 connecti[37mon successful[37m
+Initializ[37ming DMP...[37m
+[37m
+[37mR[37meading senso[37mrs for fir[37mst time...[37m
+[37m.[37m.[37m.
+3Seconds[37m
+
+Calculat[37ming offsets...
+[37m
+[37mF[37mINISHED!
+
+Se[37mnsor readin[37mgs with offsets:	
+[37mg[37myro[37mX_offset = -[37m145.00
+gyr[37moY_offset = [37m-105.00
+gyr[37moZ_offset =[37m -6.00
+acc[37melX_offset =[37m -4002.00
+accelY_offse[37mt = 832.00[37m
+accelZ_offs[37met = 1183.0[37m0
+[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m[37m
+
+/[37m/          [37m X Accel  Y [37mAccel  Z Ac[37mcel   X Gyro[37m   Y Gyro  [37m Z Gyro
+//OF[37mFSETS    -4[37m010,     860[37m,    1189,  [37m  -144,    [37m-105,      -[37m6
+Enabling [37mDMP...
+Enab[37mling interr[37mupt detectio[37mn (Arduino e[37mxternal int[37merrupt 13)..[37m.
+DMP read[37my! Waiting [37mfor first in[37mterrupt...[37m
+[37mE[37mLM327 Conn[37mected
+[37mI[37mn[37mitializing S[37mD card...[37mc[37ma[37mrd initializ[37med.
+[37mL[37mogging t[37mo: LOG01580[37m.CSV
+[37mF[37mree space [37mKB: 2961664[37m0
+Free spa[37mce in MB: 28[37m922
+[37m[37m
+[MAI[37mN] Waiting f[37mor Cat.M1 M[37module Ready.[37m..
+[37m[37m
+[37m[MAIN] BG96 already av[37mailable
+[37m[37m
+[37m[MAIN] Sy[37mstem Init C[37momplete
+
+[[37mBG96] Echo [37mOff: Success[37m
+
+[B[37mG96] USIM S[37mtatus: READY[37m
+[37m
+[BG96] Network Status:[37m 0, 3
+[BG96[37m] Please Ch[37meck your H/W[37m Status
+[37m[37m
+[BG[37m96] Echo Of[37mf: Success
+[37m
+[37m[BG96] USIM Status: READ[37mY
+[37m
+[BG96] Ne[37mtwork Status[37m: 0, 3
+[BG[37m96] Please C[37mheck your H/[37mW Status
+[37m[37m
+[B[37mG96] Echo O[37mff: Success[37m
+
+[37m[BG96] USIM[37m Status: REA[37mDY
+[37m
+[BG96] Ne[37mtwork Statu[37ms: 0, 3
+[BG[37m96] Please Ch[37meck your H/[37mW Status
+[37m[37m
+[B[37mG96] Echo O[37mff: Success
+[37m
+[BG96] USI[37mM Status: RE[37mADY
+[37m
+[BG96] N[37metwork Stat[37mus: 0, 3
+[B[37mG96] Please Check your H/[37mW Status
+[37m[37m
+[B[37mG96] Echo Off[37m: Success
+[37m
+[[37mBG96] USIM [37mStatus: REA[37mDY
+[37m
+[BG96] Net[37mwork Status[37m: 0, 3
+[BG[37m96] Please Ch[37meck your H/W[37m Status
+[37m[37m
+[B[37mG96] Echo Of[37mf: Success
+[37m
+[37m[BG96] USIM [37mStatus: REA[37mDY
+[37m
+[BG96] Network Status:[37m 0, 3
+[BG[37m96] Checking[37m APN...
+[37m[37m
+[37m[BG96] APN Check Done[37m
+
+[MAIN] [F[37mILE] Save a[37mnd check AW[37mS certificates[37m
+[37m[37m
+[37m[MAIN] [F[37mILE] Erase B[37mG96 storage complete
+[37m[37m
+[BG96] F[37mile saved: [37mAmazonRootCA[37m1.pem, 1188[37m, 2d13
+[37m[37m
+[BG96] Fi[37mle saved: ce[37mrtificate.p[37mem.crt, 1224[37m, 7a0f
+[37m[37m
+[BG96[37m] File save[37md: private.p[37mem.key, 1679[37m, 7a50
+[37m[37m
+[MAIN] [SS[37mL/TLS] Set B[37mG96 SSL/TLS [37mconfigurat[37mion
+[37m[37m
+[37m[MAIN] [MQT[37mT] Connect [37mto AWS IoT "a[37m3q2g5zrbgds[37mc1-ats.iot.[37mus-east-1.am[37mazonaws.com[37m:8883"
+
+[[37mBG96] GPS Po[37mwer: On
+
+[37m[MAIN] GPS On
+[37m0[37m.15
+-[37m0.07
+-0.01[37m
+-0.00
+GYR[37mO data updat[37med
+Distingu[37mishing Powertrain
+[37mL[37moggin[37mg to: LOG015[37m81.CSV<<---[37m-------------[37m-----------[37mCreated Ne[37mw File...
+[37mE[37mR[37mROR: ELM_TIM[37mEOUT
+ELM_ER[37mROR LOGGED
+[37m[37m
+[B[37mG96] AT+QMTOPEN result[[37m3]: Failed [37mto activate [37mPDP[37m[37m
+[BG96] A[37mT+QMTOPEN [37mresult[3]: [37mFailed to ac[37mtivate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN [37mresult[3]: F[37mailed to act[37mivate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN r[37mesult[3]: [37mFailed to ac[37mtivate PDP[37m[37m
+[BG96] [37mAT+QMTOPEN [37mresult[3]: F[37mailed to activate PDP[37m[37m
+[BG96] [37mAT+QMTOPEN r[37mesult[3]: Fa[37miled to acti[37mvate PDP[37m[37m
+[BG96] A[37mT+QMTOPEN [37mresult[3]: F[37mailed to act[37mivate PDP[37m[37m
+[BG96] [37mAT+QMTOPEN r[37mesult[3]: Fai[37mled to activate PDP[37m[37m
+[BG96] A[37mT+QMTOPEN r[37mesult[3]: Fa[37miled to act[37mivate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN re[37msult[3]: Fa[37miled to act[37mivate PDP[37m[37m
+[37m[BG96] [37mAT+QMTOPEN r[37mesult[3]: F[37mailed to act[37mivate PDP[37m[37m
+[BG96] A[37mT+QMTOPEN re[37msult[3]: Fa[37miled to acti[37mvate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN r[37mesult[3]: Fa[37miled to acti[37mvate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN r[37mesult[3]: Fa[37miled to act[37mivate PDP[37m[37m
+[BG96] A[37mT+QMTOPEN re[37msult[3]: Fa[37mi[37mled to act[37mivate PDP[37m[37m
+[37m[BG96] A[37mT+QMTOPEN result[3]: Fail[37med to acti[37mvate PDP
+[[37mMAIN] [MQTT][37m Socket ope[37mn failed
+-0[37m.03
+-0.09[37m
+-0.01
+0.00[37m
+GYRO data u[37mpdated
+[37mE[37mR[37mROR: ELM_TIM[37mEOUT
+ELM_ER[37mROR LOGGED[37m
+[37m-[37m0[37m.03
+-0.10
+0.0[37m0
+-0.01
+GYRO data upda[37mted
+[37mE[37mRRO[37mR: ELM_TIMEO[37mUT
+ELM_ERRO[37mR LOGGED
+[37m[37m
+[BG96][37m AT+QMTOPEN [37mresult[3]:[37m Failed to a[37mctivate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN resu[37mlt[3]: Faile[37md to activate[37m PDP[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN resul[37mt[3]: Faile[37md to activat[37me PDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN result[37m[3]: Failed to activat[37me PDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN result[37m[3]: Faile[37md to activat[37me PDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN result[37m[3]: Failed[37m to activat[37me PDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN result[[37m3]: Failed[37m to activate [37mPDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN resul[37mt[3]: Failed[37m to activate PDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN resul[37mt[3]: Failed[37m to activate PDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN resul[37mt[3]: Failed[37m to activat[37me PDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN result[37m[3]: Failed[37m to activate[37m PDP[37m[37m
+[[37mBG96] AT+QM[37mTOPEN result[37m[3]: Failed[37m to activate[37m PDP[37m[37m
+[37m[BG96] AT+QMTOPEN result[37m[3]: Failed[37m to activate[37m PDP[37m[37m
+[[37mBG96] AT+QMTO[37mPEN result[37m[3]: Failed t[37mo activate[37m PDP[37m[37m
+[[37mBG96] AT+QMT[37mOPEN result[[37m3]: Failed [37mto activate[37m PDP[37m[37m
+[[37mBG96] AT+QMT[37mOPEN result[37m[3]: Failed [37mto activate[37m PDP
+[MAIN][37m [MQTT] Soc[37mket open fai[37mled
+[37m0[37m.13[37m
+-0.04
+0.0[37m0
+0.01
+GY[37mRO data updated
+[37mE[37mRROR: [37mELM_TIMEOUT[37m
+ELM_ERROR [37mLOGGED
+[37m0[37m.10
+-0.[37m03
+0.01
+[37m0.00
+GYRO d[37mata updated[37m
+[37mE[37mRROR: EL[37mM_TIMEOUT
+ELM_ERROR LO[37mGGED
+[37m[37m
+[BG96] AT+[37mQMTOPEN res[37mult[3]: Fail[37med to acti[37mvate PDP[37m[37m
+[BG9[37m6] AT+QMTOPE[37mN result[3][37m: Failed to[37m activate PDP[37m[37m
+[BG9[37m6] AT+QMTOPE[37mN result[3][37m: Failed to[37m activate PD[37mP[37m[37m
+[BG9[37m6] AT+QMTOP[37mEN result[3][37m: Failed to [37mactivate PD[37mP[37m[37m
+[BG9[37m6] AT+QMTOPE[37mN result[3][37m: Failed to [37mactivate PD[37mP[37m[37m
+[BG96[37m] AT+QMTOPE[37mN result[3]:[37m Failed to [37mactivate PDP[37m[37m
+[BG96][37m AT+QMTOPE[37mN result[3]:[37m Failed to [37mactivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN [37mresult[3]:[37m Failed to [37mactivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN[37m result[3]:[37m Failed to a[37mctivate PDP[37m[37m
+[BG96[37m] AT+QMTOPEN[37m result[3]:[37m Failed to a[37mctivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN[37m result[3]:[37m Failed to a[37mctivate PDP[37m[37m
+[BG96[37m] AT+QMTOPEN[37m result[3]:[37m Failed to a[37mctivate PDP[37m[37m
+[BG96[37m] AT+QMTOPEN [37mresult[3]: F[37mailed to ac[37mtivate PDP[37m[37m
+[BG96[37m] AT+QMTOPEN[37m result[3]: [37mFailed to a[37mctivate PDP[37m[37m
+[BG96[37m] AT+QMTOPEN[37m result[3]:[37m Failed to a[37mctivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN r[37mesult[3]: Fa[37miled to a[37mctivate PDP[37m
+[MAIN] [MQ[37mTT] Socket open failed
+0[37m.10
+-0.02[37m
+-0.01
+0.[37m00
+GYRO dat[37ma updated
+[37mE[37mRROR: ELM_[37mTIMEOUT
+ELM[37m_ERROR LOGG[37mED
+[37mC[37mounter Re[37mset
+[37m[37m
+[BG96[37m] AT+QMTOPE[37mN result[3]:[37m Failed to a[37mctivate PDP[37m[37m
+[BG96] [37mAT+QMTOPEN r[37mesult[3]: F[37mailed to act[37mivate PDP[37m[37m
+[BG96] [37mAT+QMTOPEN r[37mesult[3]: Fa[37miled to act[37mivate PDP[37m[37m
+[BG96] AT[37m+QMTOPEN r[37mesult[3]: Fa[37miled to act[37mivate PDP[37m[37m
+[BG96] [37mAT+QMTOPEN r[37mesult[3]: Failed to act[37mivate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN r[37mesult[3]: Fa[37miled to acti[37mvate PDP[37m[37m
+[37m[BG96] A[37mT+QMTOPEN result[3]: Fai[37mled to act[37mivate PDP[37m[37m
+[BG96] A[37mT+QMTOPEN re[37msult[3]: Fa[37miled to acti[37mvate PDP[37m[37m
+[37m[BG96] A[37mT+QMTOPEN result[3]: Fa[37miled to acti[37mvate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN re[37msult[3]: Fa[37mi[37mled to acti[37mvate PDP[37m[37m
+[37m[BG96] A[37mT+QMTOPEN re[37msult[3]: Failed to acti[37mvate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN res[37mult[3]: Fai[37mled to acti[37mvate PDP[37m[37m
+[37m[BG96] AT[37m+QMTOPEN result[3]: Fai[37mled to acti[37mvate PDP[37m[37m
+[37m[BG96] AT[37m+QMTOPEN re[37msult[3]: Fai[37mled to acti[37mvate PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN result[3]: Fail[37med to activ[37mate PDP[37m[37m
+[37m[BG96] AT[37m+QMTOPEN re[37msult[3]: Failed to activ[37mate PDP
+[MA[37mIN] [MQTT] [37mSocket open[37m failed
+0.0[37m8
+-0.01
+-[37m0.00
+0.00
+[37mGYRO data up[37mdated
+[37mE[37mRR[37mOR: ELM_TIME[37mOUT
+ELM_ERR[37mOR LOGGED
+[37mC[37mo[37munter Reset[37m
+[37m0[37m.[37m13
+-0.04
+0.01
+0.[37m00
+GYRO dat[37ma updated
+[37mE[37mRRO[37mR: ELM_TIMEOUT
+ELM_ERR[37mOR LOGGED
+[37mC[37mo[37munter Reset[37m
+[37m[37m
+[37m[BG96] AT+QMTOPEN res[37mult[3]: Fai[37mled to activ[37mate PDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN result[3]: Failed[37m to activate[37m PDP[37m[37m
+[37m[BG96] AT+QMTOPEN result[37m[3]: Failed [37mto activat[37me PDP[37m[37m
+[37m[BG96] AT+QMT[37mOPEN result[3]: Failed t[37mo activat[37me PDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN result[37m[3]: Failed[37m to activate[37m PDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN result[3]: Failed t[37mo activate [37mPDP[37m[37m
+[[37mBG96] AT+QM[37mTOPEN result[37m[3]: Failed[37m to activate[37m PDP[37m[37m
+[37m[BG96] AT+QMT[37mOPEN result[37m[3]: Failed[37m to activate[37m PDP[37m[37m
+[[37mBG96] AT+QMT[37mOPEN result[3]: Failed [37mto activate[37m PDP[37m[37m
+[[37mBG96] AT+QMT[37mOPEN result[[37m3]: Failed [37mto activate[37m PDP[37m[37m
+[[37mBG96] AT+QMT[37mOPEN result[3[37m]: Failed [37mto activate[37m PDP[37m[37m
+[[37mBG96] AT+QMT[37mOPEN result[3]: Failed [37mto activate [37mPDP[37m[37m
+[B[37mG96] AT+QMT[37mOPEN result[3]: Failed [37mto activate [37mPDP[37m[37m
+[B[37mG96] AT+QMTOPEN result[[37m3]: Failed [37mto activate [37mPDP[37m[37m
+[B[37mG96] AT+QMTO[37mPEN result[[37m3]: Failed to activate [37mPDP[37m[37m
+[B[37mG96] AT+QMT[37mOPEN result[3][37m: Failed t[37mo activate P[37mDP
+[MAIN] [[37mMQTT] Socke[37mt open failed
+0.13
+-[37m0.05
+-0.01[37m
+0.01
+GYRO[37m data updated
+[37mE[37mRROR: E[37mLM_TIMEOUT
+[37mELM_ERROR L[37mOGGED
+[37mC[37moun[37mter Reset
+[37m[37m
+[BG96] AT[37m+QMTOPEN re[37msult[3]: Fa[37miled to acti[37mvate PDP[37m[37m
+[BG[37m96] AT+QMTOP[37mEN result[3[37m]: Failed to[37m activate P[37mDP[37m[37m
+[BG96[37m] AT+QMTOP[37mEN result[3][37m: Failed to[37m activate PD[37mP[37m[37m
+[BG9[37m6] AT+QMTOP[37mEN result[3][37m: Failed to[37m activate PD[37mP[37m[37m
+[BG9[37m6] AT+QMTOP[37mEN result[3][37m: Failed to[37m activate PD[37mP[37m[37m
+[BG9[37m6] AT+QMTOP[37mEN result[3][37m: Failed to a[37mctivate PDP[37m[37m
+[BG9[37m6] AT+QMTOPE[37mN result[3][37m: Failed to activate PD[37mP[37m[37m
+[BG96[37m] AT+QMTOPE[37mN result[3][37m: Failed to [37mactivate PD[37mP[37m[37m
+[BG9[37m6] AT+QMTOPE[37mN result[3]:[37m Failed to [37mactivate PDP[37m[37m
+[BG9[37m6] AT+QMTOPE[37mN result[3][37m: Failed to [37mactivate PD[37mP[37m[37m
+[BG96[37m] AT+QMTOPEN [37mresult[3]: [37mFailed to a[37mctivate PDP[37m[37m
+[BG96[37m] AT+QMTOPE[37mN result[3]:[37m Failed to [37mactivate PDP[37m[37m
+[BG96[37m] AT+QMTOPE[37mN result[3]:[37m Failed to [37mactivate PDP[37m[37m
+[BG96[37m] AT+QMTOPEN[37m result[3]:[37m Failed to [37mactivate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN [37mresult[3]: [37mFailed to ac[37mtivate PDP[37m[37m
+[BG96[37m] AT+QMTOPEN[37m result[3]:[37m Failed to ac[37mtivate PDP[37m
+[MAIN] [MQT[37mT] Socket open failed[37m
+0.11
+-0.04[37m
+-0.00
+0.[37m00
+GYRO dat[37ma updated
+[37mE[37mRROR: ELM_[37mT[37mIMEOUT
+ELM[37m_ERROR LOGGED
+[37mC[37mo[37munter Reset
+[37m0[37m.[37m06
+-0.03
+-[37m0.00
+0.00
+GYRO data u[37mpdated
+[37mE[37mR[37mROR: ELM_TIM[37mEOUT
+ELM_[37mERROR LOGGED[37m
+[37mC[37mounter R[37meset
+[37m[37m
+[BG96[37m] AT+QMTOPE[37mN result[3]:[37m Failed to a[37mctivate PDP[37m[37m
+[BG96] A[37mT+QMTOPEN re[37msult[3]: Fai[37mled to activate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN re[37msult[3]: Fail[37med to acti[37mvate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN res[37mult[3]: Fa[37miled to acti[37mvate PDP[37m[37m
+[37m[BG96] AT[37m+QMTOPEN result[3]: Fa[37miled to acti[37mvate PDP[37m[37m
+[37m[BG96] A[37mT+QMTOPEN result[3]: Fa[37miled to acti[37mvate PDP[37m[37m
+[37m[BG96] AT[37m+QMTOPEN result[3]: Fai[37mled to activa[37mte PDP[37m[37m
+[37m[BG96] AT+QMTOPEN re[37msult[3]: Fai[37mled to activ[37mate PDP[37m[37m
+[37m[BG96] AT[37m+QMTOPEN result[3]: Fai[37mled to activ[37mate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN res[37mult[3]: Fai[37mled to activ[37mate PDP[37m[37m
+[37m[BG96] AT[37m+QMTOPEN result[3]: Fai[37mled to acti[37mvate PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN result[3]: Fai[37mled to activ[37ma[37mte PDP[37m[37m
+[37m[BG96] AT[37m+QMTOPEN result[3]: Fail[37med to activ[37mate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN res[37mult[3]: Fail[37med to activ[37mate PDP[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN res[37mult[3]: Failed[37m to activa[37mte PDP[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN res[37mult[3]: Failed to activ[37mate PDP
+[MAI[37mN] [MQTT] [37mSocket open [37mfailed
+0.08[37m
+-0.04
+0.[37m00
+0.00
+GY[37mRO data upd[37mated
+[37mE[37mRROR: [37mELM_TIMEOUT[37m
+ELM_ERROR [37mLOGGED
+[37mC[37mo[37munter Reset
+[37m0[37m.12
+[37m-0.03
+-0.01[37m
+0.01
+GYRO[37m data updat[37med
+[37mL[37mogging [37mto: LOG0158[37m2.CSV<<-----[37m-----------[37m-----------C[37mreated New [37mFile...
+[37mE[37mL[37mM327 data representi[37mng.....
+[37mE[37mr[37mror Value R[37meset!
+insta[37mntFuelConsu[37mme : 0.00
+c[37mommandedAirF[37muelRatio : [37m0.00
+AFR : [37m14.70
+[37mE[37mL[37mM327 Data L[37mogging...
+[37mp[37mre_inst[37mantFuelCons[37mume = 0.00
+[37mpre_f_accelX[37m = -0.01
+p[37mre_f_accelY [37m= 0.01
+pre[37m_rpm = 700[37m
+pre_runTime[37m = 0
+pre_k[37mph = 1
+pre_[37mData Updated[37m
+[37m[37m
+[BG96] [37mAT+QMTOPEN r[37mesult[3]: F[37mailed to ac[37mtivate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN [37mresult[3]: Fa[37miled to ac[37mtivate PDP[37m[37m
+[BG96] [37mAT+QMTOPEN [37mresult[3]: F[37mailed to ac[37mtivate PDP[37m[37m
+[BG96] [37mAT+QMTOPEN [37mresult[3]: F[37mailed to ac[37mtivate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN [37mresult[3]: F[37mailed to act[37mivate PDP[37m[37m
+[37m[BG96] [37mAT+QMTOPEN result[3]: F[37mailed to act[37mivate PDP[37m[37m
+[37m[BG96] [37mAT+QMTOPEN result[3]: Fa[37miled to act[37mivate PDP[37m[37m
+[BG96] [37mAT+QMTOPEN r[37mesult[3]: Fa[37miled to act[37mivate PDP[37m[37m
+[37m[BG96] A[37mT+QMTOPEN result[3]: Fa[37miled to activ[37mate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN r[37mesult[3]: Fa[37miled to act[37mivate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN re[37msult[3]: Fa[37miled to acti[37mvate PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN result[3]: Fa[37miled to acti[37mvate PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN re[37msult[3]: Fa[37miled to acti[37mvate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN re[37msult[3]: Fai[37mled to acti[37mvate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN re[37msult[3]: Fa[37miled to acti[37mvate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN res[37mult[3]: Fail[37med to activa[37mte PDP
+[M[37mAIN] [MQTT][37m Socket open[37m failed
+0.[37m09
+-0.02
+0[37m.01
+0.00
+[37mGYRO data updated
+[37mL[37mo[37mgging to: LOG01583.CSV<[37m<----------[37m------------[37m-----Created[37m New File...[37m
+[37mE[37mRROR: E[37mLM_STOPPED
+[37mELM_ERROR LO[37mGGED
+[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN resu[37mlt[3]: Faile[37md to activa[37mte PDP[37m[37m
+[BG96[37m] AT+QMTOPE[37mN result[3]:[37m Failed to [37mactivate PDP[37m[37m
+[BG96[37m] AT+QMTOPE[37mN result[3]:[37m Failed to a[37mctivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN[37m result[3]:[37m Failed to [37ma[37mctivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN [37mresult[3]: [37mFailed to ac[37mtivate PDP[37m[37m
+[BG96[37m] AT+QMTOPEN[37m [37mresult[3]:[37m Failed to a[37mctivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN[37m [37mresult[3]:[37m Failed to a[37mctivate PDP[37m[37m
+[BG96[37m] AT+QMTOPEN [37mresult[3]:[37m [37mFailed to a[37mctivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN [37mresult[3]: F[37mailed to act[37mivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN[37m [37mresult[3]: Failed to a[37mc[37mtivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN [37mresult[3]: [37mFailed to a[37mctivate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN[37m result[3]: [37mF[37mailed to ac[37mtivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN [37mresult[3]: [37mFailed to ac[37mtivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN [37mresult[3]: Fa[37miled to ac[37mtivate PDP[37m[37m
+[37m[BG96][37m AT+QMTOPEN [37mresult[3]: F[37mailed to ac[37mtivate PDP[37m[37m
+[37m[BG96][37m AT+QMTOPEN result[3]: F[37mailed to acti[37mvate PDP
+[[37mMAIN] [MQT[37mT] Socket op[37men failed
+[37m0[37m.10[37m
+-0.02
+-0.[37m00
+0.01
+GY[37mRO data updated
+[37mE[37mRRO[37mR: ELM_STOPP[37mED
+ELM_ERR[37mOR LOGGED
+[37m[37m
+[BG[37m96] AT+QMTOP[37mEN result[3][37m: Failed to[37m activate PD[37mP[37m[37m
+[37m[BG96] A[37mT+QMTOPEN result[3]: Fa[37miled to acti[37mvate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN re[37msult[3]: Fa[37miled to acti[37mvate PDP[37m[37m
+[37m[BG96] A[37mT+QMTOPEN result[3]: Fai[37mled to activ[37mate PDP[37m[37m
+[37m[BG96] AT[37m+QMTOPEN re[37msult[3]: Fai[37mled to activate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN re[37msult[3]: Fai[37mled to activa[37mte PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN result[3]: Fai[37mled to acti[37mv[37mate PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN resu[37mlt[3]: Fai[37mled to acti[37mvate PDP[37m[37m
+[37m[BG96] AT[37m+QMTOPEN result[3]: Fai[37mled to activ[37mate PDP[37m[37m
+[37m[BG96] AT[37m+QMTOPEN result[3]: Fai[37mled to activ[37mate PDP[37m[37m
+[37m[BG96] AT[37m+QMTOPEN resu[37mlt[3]: Fai[37mled to activate PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN resu[37mlt[3]: Fai[37mled to activ[37mate PDP[37m[37m
+[37m[BG96] AT[37m+QMTOPEN res[37mult[3]: Fai[37mled to activ[37mate PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN resu[37mlt[3]: Fail[37med to activa[37mte PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN resu[37mlt[3]: Failed to activ[37mate PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN res[37mult[3]: Fail[37med to activate PDP
+[MA[37mIN] [MQTT] [37mSocket open f[37mailed
+[37m0[37m.15[37m
+-0.04
+-0.[37m01
+0.01
+G[37mYRO data upd[37mated
+[37mL[37mogging to: L[37mOG01584.CSV[37m<<----------[37m----------[37m-------Crea[37mted New File[37m...
+[37mE[37mLM327 [37mdata repres[37menting.....[37m
+[37mE[37mrror Valu[37me Reset!
+in[37mstantFuelCo[37mnsume : 0.0[37m0
+commanded[37mAirFuelRati[37mo : 0.00
+AF[37mR : 14.70
+[37mE[37mL[37mM327 Data Lo[37mgging...
+[37me[37mfficie[37mncyMark : n[37man / 10 
+av[37merageFuelCo[37mnsume : 0.00[37m
+safetyMar[37mk : nan / 1[37m0 
+Counter_T[37mime : 0
+sa[37mfetyScoreBu[37mf : good
+dr[37mivingMark :[37m 6.50 / 10 [37m
+averagedri[37mvingMark : 6.50 / 10 
+p[37mre_instantF[37muelConsume [37m= 0.00
+pre_[37mf_accelX = [37m-0.01
+pre_f[37m_accelY = 0[37m.01
+pre_rpm [37m= 700
+pre_runTime = 0[37m
+pre_kph = 1[37m
+pre_Data U[37mpdated
+[37m[37m
+[BG96][37m AT+QMTOPEN [37mresult[3]: Failed to ac[37mtivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN[37m result[3]: [37mFailed to a[37mctivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN [37mresult[3]: [37mFailed to a[37mctivate PDP[37m[37m
+[37m[BG96][37m AT+QMTOPEN[37m result[3]: Failed to act[37mivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN [37mresult[3]: [37mFailed to ac[37mtivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN r[37mesult[3]: [37mFailed to ac[37mtivate PDP[37m[37m
+[37m[BG96] [37mAT+QMTOPEN result[3]: F[37mailed to act[37mivate PDP[37m[37m
+[37m[BG96][37m AT+QMTOPEN [37mresult[3]: [37mFailed to activate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN r[37mesult[3]: F[37mailed to ac[37mtivate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN re[37msult[3]: F[37mailed to ac[37mtivate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN re[37msult[3]: F[37mailed to ac[37mtivate PDP[37m[37m
+[37m[BG96] [37mAT+QMTOPEN r[37mesult[3]: Fai[37mled to act[37mivate PDP[37m[37m
+[37m[BG96] [37mAT+QMTOPEN r[37mesult[3]: F[37mailed to act[37mivate PDP[37m[37m
+[37m[BG96] [37mAT+QMTOPEN result[3]: Fai[37mled to acti[37mvate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN r[37mesult[3]: Fa[37miled to act[37mivate PDP[37m[37m
+[37m[BG96] [37mAT+QMTOPEN r[37mesult[3]: Fa[37miled to act[37mivate PDP
+[MAIN] [MQTT[37m] Socket ope[37mn failed
+[37m0[37m.14
+-[37m0.02
+-0.01[37m
+0.01
+GYRO[37m data updated
+[37mE[37mL[37mM327 data re[37mpresenting..[37m...
+[37mE[37mrror[37m Value Rese[37mt!
+instantF[37muelConsume [37m: 0.00
+comm[37mandedAirFue[37mlRatio : 0.0[37m0
+AFR : 14.[37m70
+[37mE[37mLM3[37m27 Data Logg[37ming...
+[37me[37mfficiency[37mMark : nan [37m/ 10 
+avera[37mgeFuelConsum[37me : 0.00
+s[37mafetyMark : [37mnan / 10 
+C[37mounter_Time[37m : 0
+safet[37myScoreBuf : [37mgood
+drivi[37mngMark : 6.5[37m0 / 10 
+av[37meragedriving[37mMark : 6.50 / 10 
+pre_[37minstantFuelCo[37mnsume = 0.0[37m0
+pre_f_a[37mccelX = -0.0[37m1
+pre_f_acc[37melY = 0.01[37m
+pre_rpm = 7[37m00
+pre_runTime = 0
+pr[37me_kph = 1
+[37mpre_Data Upd[37mated
+0.11[37m
+-0.02
+-0.0[37m0
+0.01
+GY[37mRO data updated
+[37mE[37mLM[37m327 data rep[37mresenting..[37m...
+[37mE[37mrror Va[37ml[37mue Reset!
+instantFue[37mlConsume : [37m0.00
+comma[37mndedAirFuelR[37matio : 0.00[37m
+AFR : 14.7[37m0
+[37mE[37mLM32[37m7 Data Loggi[37mng...
+[37me[37mf[37mficiencyMa[37mrk : nan / 1[37m0 
+averageF[37muelConsume[37m : 0.00
+sa[37mfetyMark : nan / 10 
+C[37mounter_Time [37m: 0
+safetyS[37mcoreBuf : g[37mood
+drivin[37mgMark : 6.50 [37m/ 10 
+avera[37mgedrivingMa[37mrk : 6.50 [37m/ 10 
+pre_i[37mnstantFuelC[37monsume = 0.0[37m0
+pre_f_accelX = -0.00[37m
+pre_f_acce[37mlY = 0.01
+pr[37me_rpm = 70[37m0
+pre_runT[37mime = 0
+pre_kph = 1
+pr[37me_Data Upda[37mted
+0.13
+[37m-0.03
+-0.00[37m
+-0.00
+GY[37mRO data upda[37mted
+[37mE[37mLM32[37m7 data repr[37mesenting....[37m.
+[37mE[37mrror V[37malue Reset![37m
+instantFue[37mlConsume : [37m0.00
+comman[37mdedAirFuelRa[37mtio : 0.00[37m
+AFR : 14.70[37m
+[37mE[37mLM327 D[37mata Logging[37m...
+[37me[37mf[37mficiencyMar[37mk : nan / 1[37m0 
+averageFu[37melConsume :[37m 0.00
+saf[37metyMark : nan / 10 
+Co[37munter_Time : [37m0
+safetySco[37mreBuf : go[37mod
+driving[37mMark : 6.50 [37m/ 10 
+avera[37mgedrivingMa[37mrk : 6.50 /[37m 10 
+pre_in[37mstantFuelCo[37mnsume = 0.00[37m
+pre_f_acc[37melX = -0.00[37m
+pre_f_accel[37mY = -0.00
+[37mpre_rpm = 70[37m0
+pre_runT[37mime = 0
+pre[37m_kph = 1
+pre_Data Upda[37mted
+0.10
+[37m-0.02
+-0.00[37m
+-0.00
+GY[37mRO data updated
+[37mE[37mLM32[37m7 data repres[37menting.....[37m
+[37mE[37mrror Va[37ml[37mue Reset!
+instantFuel[37mConsume : 0.[37m00
+command[37medAirFuelRat[37mio : 0.00
+A[37mFR : 14.70[37m
+[37mE[37mLM327 Da[37mta Logging.[37m..
+[37me[37mf[37mficiencyMar[37mk : nan / 10[37m 
+averageF[37muelConsume :[37m 0.00
+safe[37mtyMark : nan[37m / 10 
+Coun[37mter_Time : [37m0
+safetySco[37mreBuf : good[37m
+drivingMark : 6.50 /[37m 10 
+avera[37mgedrivingMar[37mk : 6.50 / 1[37m0 
+pre_ins[37mtantFuelCons[37mume = 0.00
+[37mpre_f_accel[37mX = -0.00
+[37mpre_f_accelY[37m = -0.00
+pre[37m_rpm = 700[37m
+pre_runTim[37me = 0
+pre_[37mkph = 1
+pre[37m_Data Updat[37med
+[37m[37m
+[37m[BG96] AT+QM[37mTOPEN result[3]: Failed [37mto activat[37me PDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN result[37m[3]: Failed to activate[37m PDP[37m[37m
+[[37mBG96] AT+QM[37mTOPEN result[37m[3]: Failed[37m to activate[37m PDP[37m[37m
+[37m[BG96] AT+QMTOPEN result[37m[3]: Failed[37m to activate P[37mDP[37m[37m
+[[37mBG96] AT+QMT[37mOPEN result[[37m3]: Failed [37mto activate[37m PDP[37m[37m
+[[37mBG96] AT+QMT[37mOPEN result[[37m3]: Failed t[37mo activate [37mPDP[37m[37m
+[[37mBG96] AT+QMT[37mOPEN result[[37m3]: Failed t[37mo activate[37m PDP[37m[37m
+[[37mBG96] AT+QMT[37mOPEN result[[37m3]: Failed to[37m activate [37mPDP[37m[37m
+[B[37mG96] AT+QMT[37mOPEN result[3]: Failed [37mt[37mo activate [37mPDP[37m[37m
+[B[37mG96] AT+QMT[37mOPEN result[[37m3]: Failed t[37mo activate [37mPDP[37m[37m
+[B[37mG96] AT+QMT[37mOPEN result[3]: Failed t[37mo activate [37mPDP[37m[37m
+[B[37mG96] AT+QMTO[37mPEN result[[37m3]: Failed to[37m activate [37mPDP[37m[37m
+[B[37mG96] AT+QMT[37mOPEN result[3[37m]: Failed t[37mo activate [37mPDP[37m[37m
+[B[37mG96] AT+QMTO[37mPEN result[3][37m: Failed t[37mo activate PD[37mP[37m[37m
+[B[37mG96] AT+QMTO[37mPEN result[[37m3]: Failed t[37mo activate P[37mDP[37m[37m
+[B[37mG96] AT+QMTO[37mPEN result[[37m3]: Failed t[37mo activate [37mPDP
+[MAIN] [37m[MQTT] Sock[37met open fail[37med
+0.09
+-0.03
+0.00[37m
+-0.01
+GYRO[37m data updated
+[37mE[37mLM327 d[37mata represen[37mting.....
+[37mE[37mr[37mror Value[37m Reset!
+in[37mstantFuelCon[37msume : 0.00[37m
+commandedA[37mirFuelRatio[37m : 0.00
+AFR[37m : 14.70
+[37mE[37mL[37mM327 Data Logging...[37m
+[37me[37mffic[37miencyMark :[37m nan / 10 
+[37maverageFuel[37mConsume : 0.0[37m0
+safetyMar[37mk : nan / [37m10 
+Counte[37mr_Time : 0
+safetyScoreB[37muf : good
+d[37mrivingMark :[37m 6.50 / 10[37m 
+averagedri[37mvingMark :[37m 6.50 / 10 [37m
+pre_instan[37mtFuelConsume[37m = 0.00
+pr[37me_f_accelX [37m= 0.00
+pre_[37mf_accelY = -[37m0.01
+pre_r[37mpm = 700
+pr[37me_runTime =[37m 0
+pre_kph [37m= 1
+pre_Da[37mta Updated
+[37m0.10
+-0.02[37m
+-0.00
+-0.[37m00
+GYRO data updated
+[37mE[37mL[37mM327 data re[37mpresenting[37m.....
+[37mE[37mrr[37mor Value Res[37met!
+instan[37mtFuelConsume[37m : 0.00
+co[37mmmandedAirFu[37melRatio : 0[37m.00
+AFR : 1[37m4.70
+[37mE[37mLM32[37m7 Data Logg[37ming...
+[37me[37mffici[37mencyMark : [37mnan / 10 
+a[37mverageFuelC[37monsume : 0.0[37m0
+safetyMa[37mrk : nan / 1[37m0 
+Counter[37m_Time : 0
+s[37mafetyScoreB[37muf : good
+d[37mrivingMark [37m: 6.50 / 10 [37m
+averagedri[37mvingMark : 6[37m.50 / 10 
+[37mpre_instantFuelConsume [37m= 0.00
+pre[37m_f_accelX = [37m-0.00
+pre_[37mf_accelY = -[37m0.00
+pre_r[37mpm = 700
+pr[37me_runTime =[37m 0
+pre_kph [37m= 1
+pre_Da[37mta Updated
+[37m[37m
+[37m[BG96] AT+QMTOPEN resu[37mlt[3]: Failed[37m to activat[37me PDP[37m[37m
+[BG96[37m] AT+QMTOPEN [37mresult[3]:[37m Failed to [37mactivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN[37m result[3]:[37m Failed to [37mactivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN [37mresult[3]: [37mFailed to a[37mctivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN [37mresult[3]: [37mFailed to [37mactivate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN [37mresult[3]: Failed to a[37mctivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN[37m [37mresult[3]: Failed to a[37mctivate PDP[37m[37m
+[37m[BG96] AT+QMTOPEN[37m result[3]: [37mFailed to a[37mctivate PDP[37m[37m
+[BG96[37m] AT+QMTOPEN [37mresult[3]: F[37mailed to ac[37mtivate PDP[37m[37m
+[37m[BG96][37m AT+QMTOPEN[37m result[3]: Failed to ac[37mtivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN [37mresult[3]: [37mFailed to ac[37mtivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN [37mresult[3]: [37mFailed to ac[37mtivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN[37m result[3]: [37mFailed to ac[37mtivate PDP[37m[37m
+[37m[BG96][37m AT+QMTOPEN [37mresult[3]: [37mFailed to ac[37mtivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN r[37mesult[3]: Fa[37miled to ac[37mtivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN r[37mesult[3]: F[37mailed to ac[37mtivate PDP[37m
+[MAIN] [MQT[37mT] Socket op[37men failed
+0[37m.11
+-0.02[37m
+-0.01
+0.00
+GYRO data[37m updated
+[37mL[37moggin[37mg to: LOG015[37m85.CSV<<----[37m-----------[37m-----------[37m-Created New[37m File...
+[37mE[37mLM_ERROR [37mLOGGED
+[37m[37m
+[37m[BG96] AT[37m+QMTOPEN result[3]: Fai[37mled to acti[37mvate PDP[37m[37m
+[B[37mG96] AT+QMT[37mOPEN result[[37m3]: Failed t[37mo activate [37mPDP[37m[37m
+[B[37mG96] AT+QMTO[37mPEN result[[37m3]: Failed t[37mo activate [37mPDP[37m[37m
+[B[37mG96] AT+QMT[37mOPEN result[[37m3]: Failed [37mto activate [37mPDP[37m[37m
+[B[37mG96] AT+QMTO[37mPEN result[[37m3]: Failed t[37mo activate [37mPDP[37m[37m
+[B[37mG96] AT+QMTO[37mPEN result[[37m3]: Failed t[37mo activate [37mPDP[37m[37m
+[B[37mG96] AT+QMTO[37mPEN result[[37m3]: Failed t[37mo activate [37mPDP[37m[37m
+[BG[37m96] AT+QMTO[37mPEN result[3[37m]: Failed t[37mo activate PDP[37m[37m
+[BG[37m96] AT+QMTO[37mPEN result[3[37m]: Failed t[37mo activate [37mPDP[37m[37m
+[BG[37m96] AT+QMTO[37mPEN result[3[37m]: Failed t[37mo activate P[37mDP[37m[37m
+[BG[37m96] AT+QMTO[37mPEN result[3[37m]: Failed to[37m activate P[37mDP[37m[37m
+[BG[37m96] AT+QMTOPEN result[3[37m]: Failed to[37m activate PD[37mP[37m[37m
+[BG9[37m6] AT+QMTOP[37mE[37mN result[3]: Failed to [37mactivate PD[37mP[37m[37m
+[BG[37m96] AT+QMTOP[37mEN result[3[37m]: Failed to[37m activate PD[37mP[37m[37m
+[BG96[37m] AT+QMTOP[37mEN result[3[37m]: Failed to[37m activate P[37mDP[37m[37m
+[BG9[37m6] AT+QMTOP[37mEN result[3[37m]: Failed to[37m activate P[37mDP
+[MAIN] [M[37mQTT] Socket open failed[37m
+[37m0[37m.10
+[37m-0.02
+0.00[37m
+0.01
+GYRO[37m data updated
+[37mE[37mL[37mM_ERROR LOGG[37mED
+[37m[37m
+[BG96[37m] AT+QMTOPEN[37m result[3]:[37m Failed to a[37mctivate PDP[37m[37m
+[BG96[37m] AT+QMTOPE[37mN result[3]:[37m Failed to a[37mctivate PDP[37m[37m
+[BG96[37m] AT+QMTOPEN[37m result[3]:[37m Failed to a[37mctivate PDP[37m[37m
+[BG96[37m] AT+QMTOPEN[37m result[3]:[37m Failed to a[37mctivate PDP[37m[37m
+[BG96[37m] AT+QMTOPEN[37m result[3]:[37m Failed to a[37mctivate PDP[37m[37m
+[BG96[37m][37m AT+QMTOPEN[37m result[3]: [37mFailed to ac[37mtivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN[37m result[3]: [37mFailed to a[37mctivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN[37m result[3]: [37mFailed to a[37mctivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN[37m result[3]: [37mFailed to activate PDP[37m[37m
+[BG96][37m AT+QMTOPEN[37m result[3]: [37mFailed to a[37mctivate PDP[37m[37m
+[BG96][37m AT+QMTOPEN [37mresult[3]: [37mFailed to ac[37mtivate PDP[37m[37m
+[BG96] A[37mT+QMTOPEN [37mresult[3]: [37mFailed to ac[37mtivate PDP[37m[37m
+[BG96] [37mAT+QMTOPEN [37mresult[3]: [37mFailed to ac[37mtivate PDP[37m[37m
+[BG96] A[37mT+QMTOPEN [37mresult[3]: [37mFailed to ac[37mtivate PDP[37m[37m
+[BG96] [37mAT+QMTOPEN [37mresult[3]: F[37mailed to ac[37mtivate PDP[37m[37m
+[BG96] A[37mT+QMTOPEN [37mresult[3]: Failed to ac[37mtivate PDP
+[37m[MAIN] [MQTT[37m] Socket ope[37mn failed
+[37m0[37m.08
+-[37m0.02
+0.01
+[37m-0.00
+GYRO[37m data updat[37med
+[37mL[37mogging [37mto: LOG0158[37m6.CSV<<-----[37m-----------[37m-----------C[37mreated New [37mFile...
+[37mE[37mLM327 d[37mata represe[37mnting.....
+[37mE[37mr[37mror Value [37mReset!
+ins[37mtantFuelCons[37mume : 0.00[37m
+commandedA[37mirFuelRatio [37m: 0.00
+AFR : 14.70
+[37mE[37mLM327 D[37mata Loggin[37mg...
+[37me[37mffi[37mciencyMark [37m: nan / 10 
+averageFuel[37mConsume : 0.0[37m0
+safetyMa[37mrk : nan /[37m 10 
+Counte[37mr_Time : 0[37m
+safetyScore[37mBuf : good[37m
+drivingMark[37m : 6.50 / 1[37m0 
+averaged[37mrivingMark [37m: 6.50 / 10 [37m
+pre_insta[37mntFuelConsume = 0.00
+pre[37m_f_accelX = 0.01
+pre_f[37m_accelY = -[37m0.00
+pre_r[37mpm = 700
+p[37mre_runTime =[37m 0
+pre_kph[37m = 1
+pre_D[37mata Updated[37m
+[37m[37m
+[[37mBG96] AT+QMT[37mOPEN result[[37m3]: Failed to activate[37m PDP[37m[37m
+[BG[37m96] AT+QMTO[37mPEN result[3[37m]: Failed to activate P[37mDP[37m[37m
+[BG[37m96] AT+QMTO[37mPEN result[3[37m]: Failed t[37mo activate PDP[37m[37m
+[BG[37m96] AT+QMTOP[37mEN result[3[37m]: Failed to [37mactivate P[37mDP[37m[37m
+[BG96] AT+QMTOP[37mEN result[3[37m]: Failed t[37mo activate P[37mDP[37m[37m
+[BG[37m96] AT+QMTOP[37mEN result[3[37m]: Failed to[37m activate PDP[37m[37m
+[BG[37m96] AT+QMTOP[37mEN result[3]: Failed to[37m activate PD[37mP[37m[37m
+[BG9[37m6] AT+QMTOPEN result[3[37m]: Failed to [37mactivate P[37mDP[37m[37m
+[BG9[37m6] AT+QMTOP[37mEN result[3][37m: Failed to[37m activate PD[37mP[37m[37m
+[BG9[37m6] AT+QMTOP[37mEN result[3][37m: Failed to[37m activate PD[37mP[37m[37m
+[BG9[37m6] AT+QMTOPE[37mN result[3][37m: Failed to [37mactivate PD[37mP[37m[37m
+[BG9[37m6] AT+QMTOPE[37mN result[3]:[37m Failed to[37m activate PD[37mP[37m[37m
+[BG9[37m6] AT+QMTOPE[37mN result[3]: [37mFailed to [37mactivate PDP[37m[37m
+[BG9[37m6] AT+QMTOPE[37mN result[3]:[37m Failed to [37mactivate PD[37mP[37m[37m
+[BG96[37m] AT+QMTOPE[37mN result[3][37m: Failed to activate PDP[37m[37m
+[BG9[37m6] AT+QMTOPE[37mN result[3][37m: Failed to [37mactivate PDP[37m
+[MAIN] [MQ[37mTT] Socket open failed
+[37m0.12
+-0.00
+-0.00
+0[37m.00
+GYRO da[37mta updated[37m
+[37mE[37mLM327 [37mdata represe[37mnting.....[37m
+[37mE[37mrror Value[37m Reset!
+in[37mstantFuelC[37monsume : -1.[37m44
+commande[37mdAirFuelRat[37mio : -1.00
+[37mAFR : 14.70
+[37mE[37mLM[37m327 Data Log[37mging...
+[37me[37mfficie[37mncyMark : na[37mn / 10 
+ave[37mrageFuelCon[37msume : -1.4[37m4
+safetyMar[37mk : nan / 1[37m0 
+Counter_T[37mime : 0
+s[37mafetyScoreBu[37mf : good
+d[37mrivingMark :[37m 6.50 / 10 [37m
+averagedri[37mvingMark : 6[37m.50 / 10 
+[37mpre_instant[37mFuelConsume [37m= -1.44
+pr[37me_f_accelX =[37m -0.00
+pre[37m_f_accelY = 0.00
+pre_rpm[37m = 700
+pr[37me_runTime =[37m 0
+pre_kph = [37m1
+pre_Dat[37ma Updated
+[37m0.11
+-0.00[37m
+0.00
+0.01
+GYRO data [37mupdated
+[37mL[37mogg[37ming to: LOG[37m01587.CSV<<-[37m------------[37m-----------[37m---Created [37mNew File...
+[37mE[37mR[37mROR: ELM_TIM[37mEOUT
+ELM_ER[37mROR LOGGED[37m
+[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN result[3]: Fai[37mled to activa[37mte PDP[37m[37m
+[B[37mG96] AT+QMT[37mOPEN result[[37m3]: Failed [37mto activate PD[37mP[37m[37m
+[B[37mG96] AT+QMT[37mOPEN result[[37m3]: Failed [37mto activate [37mPDP[37m[37m
+[B[37mG96] AT+QMT[37mOPEN result[[37m3]: Failed to activate [37mPDP[37m[37m
+[B[37mG96] AT+QMT[37mOPEN result[[37m3]: Failed t[37mo activate [37mPDP[37m[37m
+[B[37mG96] AT+QMTO[37mPEN result[[37m3]: Failed t[37mo activate P[37mDP[37m[37m
+[B[37mG96] AT+QMTOP[37mEN result[3][37m: Failed to activate P[37mDP[37m[37m
+[B[37mG96] AT+QMTO[37mPEN result[[37m3]: Failed t[37mo activate [37mPDP[37m[37m
+[B[37mG96] AT+QMTO[37mPEN result[3[37m]: Failed t[37mo activate P[37mDP[37m[37m
+[BG[37m96] AT+QMTO[37mPEN result[3[37m]: Failed t[37mo activate P[37mDP[37m[37m
+[BG[37m96] AT+QMTO[37mPEN result[3[37m]: Failed to[37m activate PD[37mP[37m[37m
+[BG9[37m6] AT+QMTOP[37mEN result[3[37m]: Failed t[37mo activate P[37mDP[37m[37m
+[BG9[37m6] AT+QMTOP[37mEN result[3[37m]: Failed to[37m activate P[37mDP[37m[37m
+[BG[37m96] AT+QMTOP[37mEN result[3[37m]: Failed to[37m activate P[37mDP[37m[37m
+[BG96[37m] AT+QMTOP[37mEN result[3[37m]: Failed to[37m activate P[37mDP[37m[37m
+[BG[37m96] AT+QMTOP[37mEN result[3[37m]: Failed to activate P[37mDP
+[MAIN] [[37mMQTT] Socket[37m open faile[37md
+0.09
+-0.[37m03
+-0.01
+0.00
+GYRO d[37mata updated[37m
+[37mE[37mRROR: [37mELM_TIMEOUT[37m
+ELM_ERROR [37mLOGGED
+[37m0[37m.[37m10
+-0.03
+-0.01[37m
+-0.00
+GYRO[37m data updat[37med
+[37mL[37mogging [37mto: LOG015[37m88.CSV<<----[37m-----------[37m------------[37mCreated New F[37mile...
+[37mE[37mL[37mM_ERRO[37mR LOGGED
+[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN result[3]: Fail[37med to activa[37mte PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN resu[37mlt[3]: Faile[37md to activa[37mte PDP[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN result[37m[3]: Faile[37md to activa[37mte PDP[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN resu[37mlt[3]: Faile[37md to activat[37me PDP[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN resu[37mlt[3]: Faile[37md to activa[37mte PDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN result[37m[3]: Faile[37md to activat[37me PDP[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN result[3]: Faile[37md to activat[37me PDP[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN result[37m[3]: Faile[37md to activat[37me PDP[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN resul[37mt[3]: Failed [37mto activat[37me PDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN result[3]: Failed[37m to activat[37me[37m PDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN result[3]: Failed[37m to activat[37me PDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN result[3]: Failed[37m to activat[37me PDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN result[37m[3]: Failed[37m to activate[37m PDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN resul[37mt[3]: Failed[37m to activate[37m PDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN result[37m[3]: Failed[37m to activate [37mPDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN result[3]: Failed[37m [37mto activate PDP
+[MAIN][37m [MQTT] Sock[37met open fai[37mled
+[37m0[37m.08
+-0.0[37m1
+0.00
+-0[37m.01
+GYRO d[37mata updated[37m
+[37mE[37mL[37mM_ERROR LOGGE[37mD
+[37m0[37m.[37m10
+-0.01
+0[37m.00
+-0.00
+[37mGYRO data updated
+[37mE[37mL[37mM_ERROR LO[37mGGED
+[37m0[37m.09[37m
+-0.00
+-0.[37m00
+-0.01
+GYRO data upd[37mated
+[37mE[37mLM_E[37mRROR LOGGED[37m
+[37mC[37moun[37mter Reset
+[37m0[37m.10
+-[37m0.00
+-0.00[37m
+-0.01
+GY[37mRO data upd[37mated
+[37mE[37mLM_ERRO[37mR LOGGED
+[37mC[37moun[37mter Reset
+[37m0[37m.10
+-0.00[37m
+0.00
+0.[37m01
+GYRO da[37mta updated
+[37mE[37mLM_ERROR LO[37mGGED
+[37mC[37moun[37mter Reset
+[37m0[37m.[37m10
+0.01
+0[37m.00
+-0.00
+GYRO data up[37mdated
+[37mE[37mL[37mM_ERROR LO[37mGGED
+[37mC[37mounte[37mr Reset
+[37m0[37m.13
+-0.00
+[37m-0.01
+0.00[37m
+GYRO data updated
+[37mL[37mog[37mging to: LOG[37m01589.CSV<<[37m-------------[37m----------[37m----Created [37mNew File...[37m
+[37mE[37mL[37mM327 data re[37mpresenting.[37m....
+[37mE[37mrror [37mValue Reset!
+instantFu[37melConsume : [37m0.00
+comma[37mndedAirFuel[37mRatio : 0.00[37m
+AFR : 14.[37m70
+[37mE[37mL[37mM327 Data L[37mogging...
+[37me[37mf[37mficiencyMar[37mk : nan / [37m10 
+average[37mFuelConsume : 0.00
+saf[37metyMark : n[37man / 10 
+Co[37munter_Time [37m: 0
+safetyS[37mcoreBuf : g[37mood
+driving[37mMark : 6.50[37m / 10 
+averagedrivingMa[37mrk : 6.50 /[37m 10 
+pre_i[37mnstantFuelCo[37mnsume = 0.00[37m
+pre_f_acc[37melX = -0.01
+pre_f_acce[37mlY = 0.00
+p[37mre_rpm = 70[37m0
+pre_runTi[37mme = 0
+pre[37m_kph = 1
+pr[37me_Data Upda[37mted
+[37m[37m
+[BG96] AT+[37mQ[37mMTOPEN result[3]: Fai[37mled to activa[37mte PDP[37m[37m
+[37m[BG96] AT+[37mQMTOPEN resu[37mlt[3]: Failed[37m to activat[37me PDP[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN result[3]: Faile[37md to activat[37me PDP[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN result[3]: Faile[37md to activa[37mte PDP[37m[37m
+[37m[BG96] AT+QMTOPEN resu[37mlt[3]: Failed[37m to activa[37mte PDP[37m[37m
+[37m[BG96] AT+QMTOPEN resul[37mt[3]: Faile[37md to activa[37mte PDP[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN result[3]: Faile[37md[37m to activa[37mte PDP[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN result[3]: Failed[37m to activat[37me[37m PDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN resul[37mt[3]: Failed to activat[37me PDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN result[3]: Faile[37md to activat[37me PDP[37m[37m
+[37m[BG96] AT+QMT[37mOPEN result[37m[3]: Failed[37m to activate[37m PDP[37m[37m
+[37m[BG96] AT+Q[37mMTOPEN result[37m[3]: Failed [37mto activate[37m PDP[37m[37m
+[37m[BG96] AT+QMT[37mOPEN result[3]: Failed[37m to activat[37me PDP[37m[37m
+[37m[BG96] AT+QM[37mTOPEN resul[37mt[3]: Failed[37m to activate[37m PDP[37m[37m
+[[37mBG96] AT+QM[37mTOPEN result[37m[3]: Failed[37m to activate[37m [37mPDP[37m[37m
+[37m[BG96] AT+QMTOPEN result[37m[3]: Failed[37m to activate PDP
+[MAIN][37m [MQTT] Soc[37mket open fa[37miled
+[37m0.11
+-0[37m.01
+-0.01[37m
+0.01
+GYRO [37mdata update[37md
